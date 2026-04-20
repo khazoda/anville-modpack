@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","file/Terracotta Titlescreen.zip","file/Simple Grass Flowers v1.9.3.zip","file/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip","file/Overgrown Moss Carpet 1.2.1 (mc 1.21).zip","file/Os\u0027 Shulkers.zip","file/Os\u0027 Crops.zip","file/Os\u0027 Colorful Grasses (Mixed Models).zip","file/Os\u0027 Colorful Cobblestone.zip","file/FreshAnimations_v1.9.2.zip","file/Banner Pattern Clarity v1.5 pf8-34.zip","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/gyaradosjump","mod/cobblemon:resourcepacks/uniqueshinyforms","moonlight:mods_dynamic_assets","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/Cobblemotion_v1.2.zip"]
+resourcePacks:["vanilla","mod_resources","file/Terracotta Titlescreen.zip","file/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip","file/Os\u0027 Shulkers.zip","file/Os\u0027 Crops.zip","file/Os\u0027 Colorful Grasses (Mixed Models).zip","file/Os\u0027 Colorful Cobblestone.zip","mod/cobblemon:resourcepacks/regionbiasforms","mod/cobblemon:resourcepacks/gyaradosjump","mod/cobblemon:resourcepacks/uniqueshinyforms","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","moonlight:merged_pack","file/Simple Grass Flowers v1.9.6.zip","file/Overgrown Moss Carpet 2.3.zip","file/CobbleMotion_v1.5.zip","file/Banner Pattern Clarity v1.6.zip"]
 incompatibleResourcePacks:["file/xali\u0027s Enhanced Jungle Wood v1.2.zip"]
 lastServer:
 lang:en_us

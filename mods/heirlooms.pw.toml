@@ -1,0 +1,13 @@
+name = "Heirlooms"
+filename = "heirlooms-neoforge-1.2.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E1ZTThzs/versions/WfhikXVD/heirlooms-neoforge-1.2.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "f2e0c1f0918c636a06b25b1c0c7b66040fb7503e5a7a01656e7829e9ace23109ec0d12d8d26157fd4f8d14311e792db3c800d24c7e452e1aa67ff4b6ba4a4fa4"
+
+[update]
+[update.modrinth]
+mod-id = "E1ZTThzs"
+version = "WfhikXVD"

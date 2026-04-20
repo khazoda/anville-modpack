@@ -1,13 +1,13 @@
 name = "Obsidian Material Pack for Basic Weapons"
-filename = "bwmp_obsidian_minecraft.zip"
+filename = "bwmp_obsidian_minecraft_1.21.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zFnLV1vm/versions/hxY3vTAD/bwmp_obsidian_minecraft.zip"
+url = "https://cdn.modrinth.com/data/zFnLV1vm/versions/4Ar5C9J7/bwmp_obsidian_minecraft_1.21.1.zip"
 hash-format = "sha512"
-hash = "d266d693e3a13f2ab92867731c57957fd9ac8587214d8a75276b203f23bb88fa9ba0f62f141b291aac39166951c9a4f842f98a86d3b650ffbc088c163c551316"
+hash = "51beacd34bb30848ceeeecfab0d3d891e5c00c302152b2a37fa629881666e5ccf66b070a93e9346032b3df07ae0422307581aa3c02d009753771936a9bf36b1b"
 
 [update]
 [update.modrinth]
 mod-id = "zFnLV1vm"
-version = "hxY3vTAD"
+version = "4Ar5C9J7"

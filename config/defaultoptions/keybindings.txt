@@ -48,7 +48,7 @@ key_key.immersive_aircraft.boost:key.keyboard.b:
 key_key.modernfix.config:key.keyboard.unknown:
 key_iris.keybind.reload:key.keyboard.unknown:
 key_iris.keybind.toggleShaders:key.keyboard.unknown:
-key_iris.keybind.shaderPackSelection:key.keyboard.k:
+key_iris.keybind.shaderPackSelection:key.keyboard.i:
 key_iris.keybind.wireframe:key.keyboard.unknown:
 key_key.clientsort.group.sort:key.mouse.middle:
 key_key.corpse.death_history:key.keyboard.u:

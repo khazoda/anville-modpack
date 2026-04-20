@@ -1,13 +1,13 @@
 name = "Emerald Material Pack for Basic Weapons"
-filename = "bwmp_emerald_minecraft.zip"
+filename = "bwmp_emerald_minecraft_1.21.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ap6iZ7eX/versions/fMUsTok2/bwmp_emerald_minecraft.zip"
+url = "https://cdn.modrinth.com/data/Ap6iZ7eX/versions/4gb9wIEn/bwmp_emerald_minecraft_1.21.1.zip"
 hash-format = "sha512"
-hash = "cce9e01b99f602462ee10f51a67f03efa03b894958f2561333b6250f98ae5e4ee0f08bb4e6c903b06741b26cd28ad06187059ef3d6e28cf979e848b68bba7b85"
+hash = "550e696ddf9cacfcb1b5259923621d80381466941d96e91164e8c2f534a3470be0af7bab015cb6465f6fa3ead07e7309e49fc6ff5b991d4cc2baf6d0921cf6d3"
 
 [update]
 [update.modrinth]
 mod-id = "Ap6iZ7eX"
-version = "fMUsTok2"
+version = "4gb9wIEn"

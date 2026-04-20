@@ -1,13 +1,13 @@
 name = "Amethyst Material Pack for Basic Weapons"
-filename = "bwmp_amethyst_minecraft.zip"
+filename = "bwmp_amethyst_minecraft_1.21.1.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VplbrKdm/versions/mn3CVICl/bwmp_amethyst_minecraft.zip"
+url = "https://cdn.modrinth.com/data/VplbrKdm/versions/l53vydj1/bwmp_amethyst_minecraft_1.21.1.zip"
 hash-format = "sha512"
-hash = "6d516fa0baaef5ced48232e9d7af387f11d374bb950e731c72a2510ace50c7037388ebb6d9af8a519e8daa843622d45e24d11b22052a6bc7b03a7ae1c654669b"
+hash = "675d7f242fc65cf302aa2d18b509b50283a4ea1bd36a7dfd2f4726c3f62c0a3c7382bb50cbc968c2b6f282864c6979f7285f7d7b272f7ef29f4bf3d777ea61dc"
 
 [update]
 [update.modrinth]
 mod-id = "VplbrKdm"
-version = "mn3CVICl"
+version = "l53vydj1"

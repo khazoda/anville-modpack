@@ -1,13 +1,13 @@
 name = "Basic Weapons"
-filename = "basicweapons-neoforge-2.1.1+1.21.1.jar"
+filename = "basicweapons-neoforge-2.1.4+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sc2Pektv/versions/kx04YViE/basicweapons-neoforge-2.1.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/sc2Pektv/versions/skijTcJ3/basicweapons-neoforge-2.1.4%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "5d31c0bb25dc037c1719fb49b5a36d0c165f5e6178e8a7a27a95cba52b2b88cc10dd6338c00eb7ab34ad8a0e78fbcae2d9edec51e9f2d5ff93d4d2bafa69f12b"
+hash = "bc61e4b30d32b6c378ac10f3142f60e943d76c1b69bc255fdb525fc7046d2e8fb0baf00cec27e2c3c2f043e6df8b31bd1106fae3378141c7901d4c7602296105"
 
 [update]
 [update.modrinth]
 mod-id = "sc2Pektv"
-version = "kx04YViE"
+version = "skijTcJ3"
