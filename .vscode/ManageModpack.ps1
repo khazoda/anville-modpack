@@ -3,7 +3,7 @@ function Show-Menu {
     
     Clear-Host
     Write-Host "==================================" -ForegroundColor Cyan
-    Write-Host "   Glade Modpack Manager" -ForegroundColor Cyan
+    Write-Host "   Anville Modpack Manager" -ForegroundColor Cyan
     Write-Host "   Current Version: $version" -ForegroundColor Yellow
     Write-Host "==================================" -ForegroundColor Cyan
     Write-Host ""
