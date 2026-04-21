@@ -1,8 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/README.md"
+hash = "002653f45fc09191e8cfcaf8905320fd4efa5d39660258c1cb2bb38d4893e084"
+
+[[files]]
+file = ".github/scripts/extract-changelog.sh"
+hash = "29ae0e8ee04b35eff48988db71319799f3cd2b7476ebf45620208d660acc4a18"
+
+[[files]]
+file = ".github/workflows/README.md"
+hash = "0231f7ab25b8b77f18393111c29e7b157e10d2a4adff2c4d7c67e24a50787f6d"
+
+[[files]]
+file = ".github/workflows/publish.yml"
+hash = "213076a67020ec4552e32f28cee773bd7655e9abc61f3a3f54043606a14a724d"
+
+[[files]]
 file = "CHANGELOG.md"
-hash = "047250c6c1ceda3d4c1e28f9b8ceee690132abc97225f9b9c10fc9b3656bfb58"
+hash = "b79b0f7b4e46a6b728334aa130ca04252b463ad59ab96d381731f3a91b932029"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -110,11 +126,6 @@ hash = "d89a0bb6b4b0287f0e0ade8abe9333f3be8de84c2be22901b3dddc4a45bf1bdd"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "dbf1b55fa703024af47aafaa0fab0af1c972e7faea68e6f46f4467f20f0c837b"
-metafile = true
-
-[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "89865794f0fbe908f5b5b1c2628df8f9c0aa715313d305f08f922cf7b5c9be9d"
 metafile = true
@@ -122,11 +133,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "c78021d923ba3e0dd2a4060b4fa4addd343974313cf3278f9e36359e903f442c"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "d3848b010ba3593e125aaa415ff786fd64dcb0d1726785c58176fdbd3b8bdb74"
 metafile = true
 
 [[files]]
@@ -155,16 +161,6 @@ hash = "1611c74e2dd80cfc30a9e9c9708f788ab97c142d7e8d66ca8aa1d3993c40d8f4"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "1790ecbcf61b6e9b0ee322dc9b6a915f9e76e33cb2c94254120dc75ef05b7e57"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-tim-core.pw.toml"
-hash = "48550cdd457c547a20ae91bd4c3d56aa40f78fcd969ef677ae0e42b01c4ebcea"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
 metafile = true
@@ -190,8 +186,18 @@ hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
 metafile = true
 
 [[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "6bdb2db8504342c1d14f649cf26720578713f093c32e09c2cb43fcea0ebaa000"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "5b1281a4c0766f71f72db9721090403e47893d23d7f8c05907b522d6d9188542"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -215,18 +221,8 @@ hash = "7988c367539dd83722d24c50166e60c49c074ab9426afca9aca358b9cd2d0094"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "3e12e291f59845d26d24f57f81ee16b56afb486ae532ec3f00f5deda6a93dc6f"
-metafile = true
-
-[[files]]
 file = "mods/entity-pin-cushions.pw.toml"
 hash = "8d971e2f5ecdc59b507fa585c6d18d26233058a5a77c0863b15194352f406b1e"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
 metafile = true
 
 [[files]]
@@ -272,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
 
 [[files]]
@@ -332,11 +333,6 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "a8ac5ced9cafa5cf53d9f4d0cb61df06729d1a7b66b88d6b5a2e609b1ca26fa0"
-metafile = true
-
-[[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "1c838d1869fcf4d590888e54e9f4647563bc1310f4fe519bd0beb875710f087d"
 metafile = true
 
 [[files]]

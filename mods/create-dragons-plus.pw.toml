@@ -1,0 +1,13 @@
+name = "Create: Dragons Plus"
+filename = "CreateDragonsPlus-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dzb1a5WV/versions/NcKneuv8/CreateDragonsPlus-1.9.1.jar"
+hash-format = "sha512"
+hash = "639406b74d0dd3648751b20f15f06b14d07ed7cb379b3616002e130647d6745466433cbfb5b341c8767003ffa21b606a5f2da975713077b4a6ab3f852bd2311f"
+
+[update]
+[update.modrinth]
+mod-id = "dzb1a5WV"
+version = "NcKneuv8"

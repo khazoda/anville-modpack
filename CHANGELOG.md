@@ -1,6 +1,33 @@
 ﻿# Changelog
 
 
+
+## [1.1.1] - 2026-04-22
+
+### Added
+```
+- Create: Enchantment Industry
+- Create: Dragons Plus
+- LambDynamicLights - Dynamic Lights
+```
+
+### Removed
+```
+- Chunky
+- Cobblemon Tim Core
+- Cobblemon Capture XP
+- Cobblemon Spawn Notification
+- [EMF] Entity Model Features
+- [ETF] Entity Texture Features
+- Sodium Dynamic Lights
+```
+
+### Updated
+```
+- Create: create-1.21.1-6.0.9.jar -> create-1.21.1-6.0.10.jar
+```
+
+---
 ## [1.1.0] - 2026-04-20
 
 ### Added
