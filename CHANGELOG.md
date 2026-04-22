@@ -25,6 +25,9 @@
 ### Updated
 ```
 - Create: create-1.21.1-6.0.9.jar -> create-1.21.1-6.0.10.jar
+- Create Aeronautics: create-aeronautics-bundled-1.21.1-1.0.3.jar -> create-aeronautics-bundled-1.21.1-1.1.3.jar
+- Create: Dragons Plus: CreateDragonsPlus-1.9.1.jar -> CreateDragonsPlus-1.9.2.jar
+- Sable: sable-neoforge-1.21.1-1.0.6.jar -> sable-neoforge-1.21.1-1.1.3.jar
 ```
 
 ---

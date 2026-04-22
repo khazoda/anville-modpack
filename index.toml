@@ -18,7 +18,7 @@ hash = "213076a67020ec4552e32f28cee773bd7655e9abc61f3a3f54043606a14a724d"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b79b0f7b4e46a6b728334aa130ca04252b463ad59ab96d381731f3a91b932029"
+hash = "56628bd8e7c5dd0cb472ef1123fc46be06db1ff04eaaca4e26fa2dcc146d5342"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -182,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "21110f3cc2edf33c680d3c8a680813288bcbd41122f2385ac976619dc37d7979"
+hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
 metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "6bdb2db8504342c1d14f649cf26720578713f093c32e09c2cb43fcea0ebaa000"
+hash = "0bc20e9737fbd7ed1f09fd58e88bf21153a48aa33deb16436987b26e1b515b09"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "a8ac5ced9cafa5cf53d9f4d0cb61df06729d1a7b66b88d6b5a2e609b1ca26fa0"
+hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
 metafile = true
 
 [[files]]
