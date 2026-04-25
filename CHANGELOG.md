@@ -2,6 +2,24 @@
 
 
 
+
+
+## [1.1.2] - 2026-04-25
+
+
+
+### Updated
+```
+- Inventory Essentials: inventoryessentials-neoforge-1.21.1-21.1.13.jar -> inventoryessentials-neoforge-1.21.1-21.1.14.jar
+- Create: Enchantment Industry: create-enchantment-industry-2.3.0.jar -> create-enchantment-industry-2.3.1.jar
+- Zeta: Zeta-1.1-39.jar -> Zeta-1.1-40.jar
+- Default Options: defaultoptions-neoforge-1.21.1-21.1.5.jar -> defaultoptions-neoforge-1.21.1-21.1.6.jar
+- Quark: Quark-4.1-476.jar -> Quark-4.1-477.jar
+- Create: Dragons Plus: CreateDragonsPlus-1.9.2.jar -> CreateDragonsPlus-1.10.0b.jar
+- Balm: balm-neoforge-1.21.1-21.0.56.jar -> balm-neoforge-1.21.1-21.0.57.jar
+```
+
+---
 ## [1.1.1] - 2026-04-22
 
 ### Added

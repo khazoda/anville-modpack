@@ -1,12 +1,12 @@
 name = "Anville"
 author = "Khazoda"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "18840baf5e568e8af04a5123360cfdaf218f58c62a51cd9add5305ea14eab368"
+hash = "697e2886ea9ffb172dfb5d84ceae320b0b5f88efcdda6ad75e5d4e6d78faa7de"
 
 [versions]
 minecraft = "1.21.1"

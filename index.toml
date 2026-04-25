@@ -18,7 +18,7 @@ hash = "213076a67020ec4552e32f28cee773bd7655e9abc61f3a3f54043606a14a724d"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "56628bd8e7c5dd0cb472ef1123fc46be06db1ff04eaaca4e26fa2dcc146d5342"
+hash = "ef6ff1d98763f0110cafcca7652de0df4a8ca896b1e4c2fdfd28a379594a6d9b"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
+hash = "9121b274bd87552ae976983d9bdd56061274c126a4a1b7b2e13605b1a1ec0599"
 metafile = true
 
 [[files]]
@@ -187,12 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "0bc20e9737fbd7ed1f09fd58e88bf21153a48aa33deb16436987b26e1b515b09"
+hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "5b1281a4c0766f71f72db9721090403e47893d23d7f8c05907b522d6d9188542"
+hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
+hash = "ef7868aa3a029cdb7a9a46fc3f55ae12c4bc86cb5d92ae889ed554acfa229c45"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "74290a70d2b4c7d055161808cbad7f7b865a6abe1f2b84ae441f41b587f8ff3a"
+hash = "c9c6a9d2c8b2d215536bd251088c94eae09c8928b4d8e4779720f07ad6564a3f"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "ccd84a4f0b79b1027b163ab442ff1d71fb071492db5b62055a1e7669e727c41a"
+hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "0a27bc0ea8ab5798acbbd595f33f2d07b8d8392bbfd17065e834e89969af7c8d"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
