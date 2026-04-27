@@ -4,6 +4,40 @@
 
 
 
+
+## [1.1.3] - 2026-04-27
+
+### Added
+```
+- Distant Horizons
+- ClickThrough Plus
+- Particle Interactions
+- 3D Skin Layers
+- Not Enough Animations
+- Chat Heads
+- Controlling
+- Create: Cyber Goggles
+- Create More: Linked Remote
+- Create: Extended Wrenches
+- Create: Stones
+```
+
+### Removed
+```
+- LambDynamicLights - Dynamic Lights
+- Sodium Extras
+- Sodium Options Mod Compat
+- Sodium Options API
+- Reese's Sodium Options
+- Noisium
+```
+
+### Updated
+```
+- Terracotta Titlescreen: Terracotta Titlescreen.zip -> Terracotta Titlescreen.zip
+```
+
+---
 ## [1.1.2] - 2026-04-25
 
 

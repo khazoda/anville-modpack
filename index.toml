@@ -18,7 +18,7 @@ hash = "213076a67020ec4552e32f28cee773bd7655e9abc61f3a3f54043606a14a724d"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "ef6ff1d98763f0110cafcca7652de0df4a8ca896b1e4c2fdfd28a379594a6d9b"
+hash = "5fbe7125ae7875a8fcb4f970abe3c9116c392e2534b5596e931d2792a075a720"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -45,6 +45,10 @@ hash = "d86cc19bbed170f1837f592b4515ce79ce52eb6c3f2898aa906e73d7e8f50151"
 metafile = true
 
 [[files]]
+file = "config/defaultoptions/extra/config/DistantHorizons.toml"
+hash = "65e858ed0da5e8717a6bfbfe761f09409f2ec6a8780ca643298ec8344d558bd7"
+
+[[files]]
 file = "config/defaultoptions/extra/config/betterf3.toml"
 hash = "8845d39a2024e9b804111e28fbfcf060905df4979832104039a9d2f3a5781c40"
 
@@ -65,20 +69,17 @@ file = "config/defaultoptions/extra/config/sodium-options.json"
 hash = "f6af9f429655aba76b4cd1a5cbd59ebefcbdd35c8dfb29b6191f52008221b66b"
 
 [[files]]
-file = "config/defaultoptions/extra/config/sodiumdynamiclights-client.toml"
-hash = "a3ae9c5ce7ff2b9a2aa8d1a5809a2c67c5af170535fe126f64ca84fdbdab86e7"
-
-[[files]]
-file = "config/defaultoptions/extra/config/sodiumextras-client.toml"
-hash = "ddd8950d7d4c21a8bb2761a196ffb397a2d3b65fe293aa0938b7a381b196cdee"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "6922e71d0b98e48708089a43f5254ef9f2427a326050f76e48879d1d638e2e1b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "a94fa981380dcc040edb9154bcd03615008a1a7ab4a1b2366a2d4e2eb93aa10c"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
+metafile = true
 
 [[files]]
 file = "mods/advancement-screenshot.pw.toml"
@@ -123,6 +124,16 @@ metafile = true
 [[files]]
 file = "mods/bronze.pw.toml"
 hash = "d89a0bb6b4b0287f0e0ade8abe9333f3be8de84c2be22901b3dddc4a45bf1bdd"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "5c353324f94f6b3dcf6e360290007106f8cb98d7efd623240053730a492a488e"
 metafile = true
 
 [[files]]
@@ -171,6 +182,11 @@ hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -186,6 +202,11 @@ hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
 metafile = true
 
 [[files]]
+file = "mods/create-cyber-goggles.pw.toml"
+hash = "319b182a903c637ebab30c50edc2e23b56b154476beeedb7aea7b72c4fe7e50c"
+metafile = true
+
+[[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
 metafile = true
@@ -196,6 +217,16 @@ hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
 metafile = true
 
 [[files]]
+file = "mods/create-more-linked-remote.pw.toml"
+hash = "12329706d9720921132457af6ccbef816018b850fbc7dbc9b53d983bce913592"
+metafile = true
+
+[[files]]
+file = "mods/create-stones.pw.toml"
+hash = "5e27d23ab07532da7bb1d9e19ce94fc1f8dad1924b61f980306d3822aeb7cd9c"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -203,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "ef7868aa3a029cdb7a9a46fc3f55ae12c4bc86cb5d92ae889ed554acfa229c45"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
 metafile = true
 
 [[files]]
@@ -223,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/entity-pin-cushions.pw.toml"
 hash = "8d971e2f5ecdc59b507fa585c6d18d26233058a5a77c0863b15194352f406b1e"
+metafile = true
+
+[[files]]
+file = "mods/extended-wrenches.pw.toml"
+hash = "59cfcbd44968549b7dc2f6e13b691d50c9c65af6bad966b47e097c7c937e6cfc"
 metafile = true
 
 [[files]]
@@ -271,11 +312,6 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
-metafile = true
-
-[[files]]
 file = "mods/lighty.pw.toml"
 hash = "4e1ddc6dc20765da3293a598d695c8e2434a86406d635bf2942d03a1662ad131"
 metafile = true
@@ -311,8 +347,13 @@ hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "fe750805ac24ce8e213f24d5c592b55071720bb55a2103b970970825c8b2f8e1"
+file = "mods/not-enough-animations.pw.toml"
+hash = "44dde164b3d9e130a8d8dd6ff84bfcc936825465b966a06c7358f0ddf3660fd0"
+metafile = true
+
+[[files]]
+file = "mods/particle-interactions.pw.toml"
+hash = "12fa04dfc69d95c522b43e3d5a3e0d2439c332f51d87aea9c214631dd607a7ce"
 metafile = true
 
 [[files]]
@@ -326,28 +367,13 @@ hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "00decabe50870a59262d3a50ac05e7f608439490a3285a6c979266039c2fe911"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extras.pw.toml"
-hash = "30a2c4efcf1622516a41808d945fe415c0e3c5e58e8364c506d6b38774663e06"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-api.pw.toml"
-hash = "2d956e6cb0c5a465f6d3e3b81e841b5113c5ad95f8a73837375c3a66186b2c0a"
-metafile = true
-
-[[files]]
-file = "mods/sodium-options-mod-compat.pw.toml"
-hash = "d791fd50a3874ff69ab767bd35b7a30e4b33caaae9a129401a66cdc6cc43ee7c"
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
@@ -368,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "2c903421b7961fe8d9e343c3b114c07eb2cd28ea5a0e98e501801fcc4ce9add6"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
@@ -422,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/terracotta-titlescreen.pw.toml"
-hash = "f29956cacb571e0fd28d71efaa4c22d21b8c7787585eca0b69b163c7a7aa4c8e"
+hash = "01136284a81e9849134b14c7ad3f6a83d9435e26c45c61eac95f8d0a7b50084d"
 metafile = true
 
 [[files]]
