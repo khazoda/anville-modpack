@@ -21,7 +21,7 @@ jobs:
           chmod +x packwiz
           sudo mv packwiz /usr/local/bin/
           echo "Installed packwiz. Running refresh..."
-          packwiz refresh --update-hashes
+          packwiz refresh -y
 
       - name: Extract pack information
         id: pack_info
