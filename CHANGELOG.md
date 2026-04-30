@@ -5,6 +5,20 @@
 
 
 
+
+## [1.1.4] - 2026-04-30
+
+
+
+### Updated
+```
+- Sable: sable-neoforge-1.21.1-1.1.3.jar -> sable-neoforge-1.21.1-1.2.2.jar
+- Create Aeronautics: create-aeronautics-bundled-1.21.1-1.1.3.jar -> create-aeronautics-bundled-1.21.1-1.2.1.jar
+- Create: Cyber Goggles: CreateCyberGoggles-1.21.1-7.5.7-NeoForge.jar -> CreateCyberGoggles-1.21.1-7.5.8-NeoForge.jar
+- ClickThrough Plus: clickthrough-plus-neoforge-3.5.0+1.21.1.jar -> clickthrough-plus-3.3+1.21.jar
+```
+
+---
 ## [1.1.3] - 2026-04-27
 
 ### Added

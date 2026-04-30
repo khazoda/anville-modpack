@@ -14,11 +14,11 @@ hash = "0231f7ab25b8b77f18393111c29e7b157e10d2a4adff2c4d7c67e24a50787f6d"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "213076a67020ec4552e32f28cee773bd7655e9abc61f3a3f54043606a14a724d"
+hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5fbe7125ae7875a8fcb4f970abe3c9116c392e2534b5596e931d2792a075a720"
+hash = "1e8ddfb1f495f18b3dcc1851d81534e2f9c373139d6a8da2692cf4892dc26bd1"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "5c353324f94f6b3dcf6e360290007106f8cb98d7efd623240053730a492a488e"
+hash = "ffb0861ae37abc292e61208c8b7826b7b8287b24c07419083d4bb4ac109da4ee"
 metafile = true
 
 [[files]]
@@ -198,12 +198,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "319b182a903c637ebab30c50edc2e23b56b154476beeedb7aea7b72c4fe7e50c"
+hash = "256fc9b57b0eec4f96324bb621cf02ae2e3b0fe3a6e56dfc561b2eb7602bb60a"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
