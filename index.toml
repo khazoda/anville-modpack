@@ -18,7 +18,7 @@ hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "50cb7b02f087487cf1d10743220d8be2a4b65181e4c89f6faaa9f17c84cc269b"
+hash = "df5ad6063dd2c20ba59e3a6548a2250cf8eaca07c31ba130219967f379742f2d"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "24b70724aa94bba51a410eb4812a2729638cc761a1954af0a394752c2cd75432"
+hash = "fa0e1562f9dc89d6428546c7388dcfce8706843333d58f16cadce42b56b81085"
 metafile = true
 
 [[files]]

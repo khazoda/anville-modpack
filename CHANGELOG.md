@@ -7,6 +7,17 @@
 
 
 
+
+## [1.1.6] - 2026-05-02
+
+
+
+### Updated
+```
+- Supplementaries (downgrade to previous version due to library dep update not existing yet)
+```
+
+---
 ## [1.1.5] - 2026-05-02
 
 ### Added
