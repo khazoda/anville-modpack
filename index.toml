@@ -18,7 +18,7 @@ hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "1e8ddfb1f495f18b3dcc1851d81534e2f9c373139d6a8da2692cf4892dc26bd1"
+hash = "50cb7b02f087487cf1d10743220d8be2a4b65181e4c89f6faaa9f17c84cc269b"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -178,7 +178,17 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
+hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
@@ -203,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "256fc9b57b0eec4f96324bb621cf02ae2e3b0fe3a6e56dfc561b2eb7602bb60a"
+hash = "f3abd6cc1d37327326b8d3fad5e684749387fdf5bc8ca18ac2d370622ae77834"
 metafile = true
 
 [[files]]
@@ -219,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/create-more-linked-remote.pw.toml"
 hash = "12329706d9720921132457af6ccbef816018b850fbc7dbc9b53d983bce913592"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
 
 [[files]]
@@ -272,6 +287,11 @@ hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
 file = "mods/heirlooms.pw.toml"
 hash = "d8febe42aa0d5f1469565fac5e4a439d6ef3eee25233694406bba29476c5b7ea"
 metafile = true
@@ -288,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
-hash = "c9c6a9d2c8b2d215536bd251088c94eae09c8928b4d8e4779720f07ad6564a3f"
+hash = "702a028e2d428d352b4d664a21b0fb6182c20a930888a6c962f557aeba05871f"
 metafile = true
 
 [[files]]
@@ -318,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "114b4f1097f17b916cc5df3334aa57e34c6f4a108b87cb911e29134dd5ff980d"
+hash = "9bc2d48df2e387c4003a2c52333e392fbb332b2fcc27899fb43d55ff8328d76e"
 metafile = true
 
 [[files]]
@@ -383,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fa0e1562f9dc89d6428546c7388dcfce8706843333d58f16cadce42b56b81085"
+hash = "24b70724aa94bba51a410eb4812a2729638cc761a1954af0a394752c2cd75432"
 metafile = true
 
 [[files]]

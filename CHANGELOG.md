@@ -6,6 +6,26 @@
 
 
 
+
+## [1.1.5] - 2026-05-02
+
+### Added
+```
+- Continuity
+- Create: Power Loader
+```
+
+
+### Updated
+```
+- Inventory Essentials: inventoryessentials-neoforge-1.21.1-21.1.14.jar -> inventoryessentials-neoforge-1.21.1-21.1.15.jar
+- Collective: collective-1.21.1-8.20.jar -> collective-1.21.1-8.22.jar
+- Lootr: lootr-neoforge-1.21.1-1.11.37.118.jar -> lootr-neoforge-1.21.1-1.11.37.119.jar
+- Supplementaries: supplementaries-1.21-3.5.34-neoforge.jar -> supplementaries-neoforge-1.21.1-3.6.0.jar
+- Create: Cyber Goggles: CreateCyberGoggles-1.21.1-7.5.8-NeoForge.jar -> CreateCyberGoggles-1.21.1-7.5.9-NeoForge.jar
+```
+
+---
 ## [1.1.4] - 2026-04-30
 
 
