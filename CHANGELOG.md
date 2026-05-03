@@ -8,6 +8,21 @@
 
 
 
+
+## [1.1.7] - 2026-05-03
+
+### Added
+```
+- Create: Hypertubes
+```
+
+
+### Updated
+```
+- Cobblemon Integrations: cobblemonintegrations-neoforge-1.21.1-1.1.5.jar -> cobblemonintegrations-neoforge-1.21.1-1.1.6.jar
+```
+
+---
 ## [1.1.6] - 2026-05-02
 
 

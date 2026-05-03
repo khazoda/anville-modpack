@@ -18,7 +18,7 @@ hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "df5ad6063dd2c20ba59e3a6548a2250cf8eaca07c31ba130219967f379742f2d"
+hash = "e58868944817f6c4e2791acb7f31e8c72382e78e04a6da98edb90acf8650ad5c"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-integrations.pw.toml"
-hash = "c70e86c727c484964831bf18f88f66b42d54dc057be20bc99ce0abdbecdeea41"
+hash = "d6717767872ba7ea0c52fbb1935c5beb736160a6432634e9022402bb9e32ee0d"
 metafile = true
 
 [[files]]
@@ -297,6 +297,11 @@ hash = "d8febe42aa0d5f1469565fac5e4a439d6ef3eee25233694406bba29476c5b7ea"
 metafile = true
 
 [[files]]
+file = "mods/hypertube.pw.toml"
+hash = "9aed20c67bf8890e5c67607d79270c71af98a8722f29118594bb768e9578b7c0"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
@@ -348,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
+hash = "b07fc16278ba905ddd237e55ec8f903b5c648d7638a8d597335b9bc16daa23f8"
 metafile = true
 
 [[files]]
@@ -403,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fa0e1562f9dc89d6428546c7388dcfce8706843333d58f16cadce42b56b81085"
+hash = "68ce069fbb8923ac4d3e63b8639c38d77a4825812e5b41a6582144aa197b39dc"
 metafile = true
 
 [[files]]
