@@ -301,6 +301,21 @@ _version = 4
 			#    Mod compatibility is not guaranteed.
 			lodOnlyMode = false
 			#
+			# What renderer is active? 
+			# 
+			# DEFAULT: Default lod renderer 
+			# DEBUG_TRIANGLE: Debug testing renderer 
+			# DISABLED: Disable rendering
+			rendererMode = "DEFAULT"
+			#
+			# If true overlapping quads will be rendered as bright red for easy identification. 
+			# If false the quads will be rendered normally.
+			showOverlappingQuadErrors = false
+			#
+			# If true OpenGL Buffer garbage collection will be logged 
+			# this also includes the number of live buffers.
+			logBufferGarbageCollection = false
+			#
 			# Should specialized colors/rendering modes be used? 
 			# 
 			# OFF: LODs will be drawn with their normal colors. 
@@ -313,13 +328,6 @@ _version = 4
 			# Useful for debugging shaders
 			enableWhiteWorld = false
 			#
-			# What renderer is active? 
-			# 
-			# DEFAULT: Default lod renderer 
-			# DEBUG_TRIANGLE: Debug testing renderer 
-			# DISABLED: Disable rendering
-			rendererMode = "DEFAULT"
-			#
 			# If enabled the LODs will render as wireframe.
 			renderWireframe = false
 			#
@@ -328,14 +336,6 @@ _version = 4
 			# F7 - enable/disable LOD only rendering 
 			# F8 - cycle through the different debug rendering modes
 			enableDebugKeybindings = false
-			#
-			# If true overlapping quads will be rendered as bright red for easy identification. 
-			# If false the quads will be rendered normally.
-			showOverlappingQuadErrors = false
-			#
-			# If true OpenGL Buffer garbage collection will be logged 
-			# this also includes the number of live buffers.
-			logBufferGarbageCollection = false
 
 			[client.advanced.debugging.debugWireframe]
 				#
@@ -360,36 +360,6 @@ _version = 4
 				#    Additionally, only stuff that's loaded after you enable this 
 				#    will render their debug wireframes.
 				enableRendering = false
-
-			[client.advanced.debugging.f3Screen]
-				#
-				# Shows info about the render thread tasks.
-				showRenderThreadTasks = false
-				#
-				# Shows how many chunks are queued for processing and the max count that can be queued.
-				showQueuedChunkUpdateCount = true
-				#
-				# Shows the memory use and array counts for each DH object pool.
-				showSeparatedObjectPools = false
-				#
-				# Shows the player's LOD position.
-				showPlayerPos = true
-				#
-				# Shows the combined memory use and array counts for all DH pooled objects.
-				showCombinedObjectPools = false
-				#
-				# Defines what internal detail level the player position will be shown as. 
-				# Internal detail level means: 6 = 1x1 block, 7 = 2x2 blocks, etc.
-				playerPosSectionDetailLevel = 6
-				#
-				# Only show levels that DH is actively rendering.
-				onlyShowRenderingLevels = true
-				#
-				# Shows info about each thread pool.
-				showThreadPools = true
-				#
-				# Shows what levels are loaded and world gen/rendering info about those levels.
-				showLevelStatus = true
 
 			[client.advanced.debugging.openGl]
 				#
@@ -428,6 +398,45 @@ _version = 4
 				linkableTest = 420
 				intTest = 69420
 				stringTest = "Test input box"
+
+			[client.advanced.debugging.f3Screen]
+				#
+				# Shows info about the render thread tasks.
+				showRenderThreadTasks = false
+				#
+				# Shows how many chunks are queued for processing and the max count that can be queued.
+				showQueuedChunkUpdateCount = true
+				#
+				# Shows the memory use and array counts for each DH object pool.
+				showSeparatedObjectPools = false
+				#
+				# Shows the player's LOD position.
+				showPlayerPos = true
+				#
+				# Shows the combined memory use and array counts for all DH pooled objects.
+				showCombinedObjectPools = false
+				#
+				# Defines what internal detail level the player position will be shown as. 
+				# Internal detail level means: 6 = 1x1 block, 7 = 2x2 blocks, etc.
+				playerPosSectionDetailLevel = 6
+				#
+				# Only show levels that DH is actively rendering.
+				onlyShowRenderingLevels = true
+				#
+				# Shows info about each thread pool.
+				showThreadPools = true
+				#
+				# Shows what levels are loaded and world gen/rendering info about those levels.
+				showLevelStatus = true
+
+			[client.advanced.debugging.positionFinderDebugging]
+				positionFinderEnable = false
+				positionFinderMinBlockY = -64
+				positionFinderZPos = 0
+				positionFinderXPos = 0
+				positionFinderMaxBlockY = 125
+				positionFinderDetailLevel = 6
+				positionFinderMarginPercent = "0.0"
 
 		[client.advanced.graphics]
 			#
@@ -658,7 +667,7 @@ _version = 4
 				blocksToIgnore = "NON_COLLIDING"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 64
+				lodChunkRenderDistanceRadius = 128
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
@@ -720,7 +729,7 @@ _version = 4
 				# 0.0: Fog starts at the player's position. 
 				# 1.0: Fog starts at the closest edge of the vanilla render distance. 
 				# 1.414: Fog starts at the corner of the vanilla render distance.
-				farFogStart = "0.0"
+				farFogStart = "0.05"
 				#
 				# What is the minimum fog thickness? 
 				# 
@@ -739,7 +748,7 @@ _version = 4
 				# LINEAR: Linear based on distance (will ignore 'density')
 				# EXPONENTIAL: 1/(e^(distance*density)) 
 				# EXPONENTIAL_SQUARED: 1/(e^((distance*density)^2)
-				farFogFalloff = "EXPONENTIAL"
+				farFogFalloff = "EXPONENTIAL_SQUARED"
 				#
 				# Used in conjunction with the Fog Falloff.
 				farFogDensity = "2.5"
@@ -749,7 +758,7 @@ _version = 4
 				# 0.0: Fog ends at player's position.
 				# 1.0: Fog ends at the closest edge of the vanilla render distance. 
 				# 1.414: Fog ends at the corner of the vanilla render distance.
-				farFogEnd = "1.0"
+				farFogEnd = "0.95"
 
 				[client.advanced.graphics.fog.heightFog]
 					#

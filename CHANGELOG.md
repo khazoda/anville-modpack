@@ -9,6 +9,27 @@
 
 
 
+
+## [1.1.8] - 2026-05-08
+
+
+
+### Updated
+```
+- Distant Horizons: DistantHorizons-3.0.2-b-1.21.1-fabric-neoforge.jar -> DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar
+- Lootr: lootr-neoforge-1.21.1-1.11.37.119.jar -> lootr-neoforge-1.21.1-1.11.37.120.jar
+- Create: Cyber Goggles: CreateCyberGoggles-1.21.1-7.5.9-NeoForge.jar -> CreateCyberGoggles-1.21.1-7.6.0-NeoForge.jar
+- vista: vista-1.21-3.1.2-neoforge.jar -> vista-neoforge-1.21.1-3.2.1.jar
+- Quark: Quark-4.1-477.jar -> Quark-4.1-479.jar
+- Supplementaries: supplementaries-1.21-3.5.34-neoforge.jar -> supplementaries-neoforge-1.21.1-3.6.4.jar
+- Balm: balm-neoforge-1.21.1-21.0.57.jar -> balm-neoforge-1.21.1-21.0.58.jar
+- vista: vista-neoforge-1.21.1-3.2.1.jar -> vista-neoforge-1.21.1-4.3.1.jar
+- EMI: emi-1.1.22+1.21.1+neoforge.jar -> emi-1.1.23+1.21.1+neoforge.jar
+- Moonlight Lib: moonlight-1.21-2.29.33-neoforge.jar -> moonlight-neoforge-1.21.1-3.0.7.jar
+- Not Enough Animations: notenoughanimations-neoforge-1.12.2-mc1.21.1.jar -> notenoughanimations-neoforge-1.12.3-mc1.21.1.jar
+```
+
+---
 ## [1.1.7] - 2026-05-03
 
 ### Added
