@@ -18,7 +18,7 @@ hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "155f2fcb2c9d70dfffb31dbdbce834a35f8f551f3506a03d7e9462f27e78a037"
+hash = "1a12efeb9d4181e3b056272cd1f43a87d2c939b0283bdb804283b22b7f49406b"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -213,12 +213,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "280e6545d3161a45b7a2a6359781882d21bdcfea3270e8813b16d6810d31b7c7"
+hash = "6702922c88d1ded56bc2e0d9fd247b08e371a13527920d3078ab5d1aef2c9dda"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "44df18a2448d91a2e781af5e4ad1a639e70b79b4041bf846b8776166f8d2a5b9"
+hash = "2ba3112a833d6e23aae1e0a38a7a324f89efb8a532ea101f355dc38490840b3b"
 metafile = true
 
 [[files]]
@@ -268,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3492cce37b394da6d6b7346ad00fba3b27c1f7a56c9bc9d104141d6ec6a25fd9"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
@@ -353,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
+hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
 metafile = true
 
 [[files]]
@@ -403,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
@@ -488,5 +493,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
+hash = "4186d52e3f4eadf4ba35098431dd9d209d3f2637b1c7abb5668894594cc88246"
 metafile = true

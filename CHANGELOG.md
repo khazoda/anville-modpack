@@ -10,6 +10,25 @@
 
 
 
+
+## [1.1.9] - 2026-05-17
+
+### Added
+```
+- Create Deco
+```
+
+
+### Updated
+```
+- Moonlight Lib: moonlight-neoforge-1.21.1-3.0.7.jar -> moonlight-neoforge-1.21.1-3.0.9.jar
+- Create: Dragons Plus: CreateDragonsPlus-1.10.0b.jar -> CreateDragonsPlus-1.10.1.jar
+- Complementary Shaders - Unbound: ComplementaryUnbound_r5.7.1.zip -> ComplementaryUnbound_r5.8.zip
+- EMI: emi-1.1.23+1.21.1+neoforge.jar -> emi-1.1.24+1.21.1+neoforge.jar
+- Create: Cyber Goggles: CreateCyberGoggles-1.21.1-7.6.0-NeoForge.jar -> CreateCyberGoggles-1.21.1-7.6.2-NeoForge.jar
+```
+
+---
 ## [1.1.8] - 2026-05-08
 
 
@@ -111,6 +130,8 @@
 - Sodium Options API
 - Reese's Sodium Options
 - Noisium
+- Sodium
+- More Culling
 ```
 
 ### Updated
