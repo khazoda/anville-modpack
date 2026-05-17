@@ -2,15 +2,40 @@
 
 
 
+## [1.2.0] - 2026-05-17
+
+### Added
+```
+- Create: Easy Stock Ticker
+- Create: Meta Logistics
+- Create: Interiors
+- Create Aeronautics: Dyeable Components
+- Create Live Radio
+- Create: Some Assembly Required
+
+- Farmer's Delight
+
+- Jade Sable Compat
+
+- Cobblemon: Create Industries (3D Production Models)
+- Cobblemore Lib
+
+- Creative Music
+- Constant Music
+- Biomeless Music
+
+- ModernFix
+- FerriteCore
+- Dynamic FPS
+```
+
+### Removed
+```
+- Create: Cyber Goggles
+```
 
 
-
-
-
-
-
-
-
+---
 ## [1.1.9] - 2026-05-17
 
 ### Added

@@ -18,7 +18,7 @@ hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "1a12efeb9d4181e3b056272cd1f43a87d2c939b0283bdb804283b22b7f49406b"
+hash = "2938e60c37cc3c7c06372a755cf122efbdd49d6ebb23d69bd0ea017e6c71aefc"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -57,6 +57,10 @@ file = "config/defaultoptions/extra/config/cobblemonoutbreaks/outbreaks_config.j
 hash = "4b265f38ca9da9077f5ab4e781cd304291ecc0436936604414e23b1a3a45aa93"
 
 [[files]]
+file = "config/defaultoptions/extra/config/constantmusic.toml"
+hash = "ebeb675e785e269509f652073ccb32b9ecb88d07da4050a4852c54f814f14993"
+
+[[files]]
 file = "config/defaultoptions/extra/config/jade/jade.json"
 hash = "d29d85da6de80c65e099bf391b3b9b39be734ba1eef3a75a8b4544a9978a331c"
 
@@ -84,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-screenshot.pw.toml"
 hash = "4c4df070f62c9f0bf82033f75c917f6e9c793dd4caaae40b65597ddeb9117593"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-dyeable-components.pw.toml"
+hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
 metafile = true
 
 [[files]]
@@ -147,6 +156,11 @@ hash = "c78021d923ba3e0dd2a4060b4fa4addd343974313cf3278f9e36359e903f442c"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-create-industries.pw.toml"
+hash = "1293a640844bb49123c1784e6744989c2ac903860b6e869ef1d313ff61632237"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-fight-or-flight-reborn.pw.toml"
 hash = "63d31d5820a5fe31ddee48ecfe5d03acb56c56d16e7b64e940ef664127d220d4"
 metafile = true
@@ -177,6 +191,11 @@ hash = "bd0dd7ceb00c37cfaa945dfba23b5b2406e12be20709df8d9f82ba12a5a3a2be"
 metafile = true
 
 [[files]]
+file = "mods/cobblemore-library.pw.toml"
+hash = "b65f2b09d07b8db21de571c3353a8a2d3386aa0ee8b3f5abb00d736c3286910b"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
 metafile = true
@@ -184,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+metafile = true
+
+[[files]]
+file = "mods/constant-music.pw.toml"
+hash = "d8788bb474cdc1bf96ee387ea56183ee691a6429c7063e137d2a141d6812f0c3"
 metafile = true
 
 [[files]]
@@ -212,11 +236,6 @@ hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
-file = "mods/create-cyber-goggles.pw.toml"
-hash = "6702922c88d1ded56bc2e0d9fd247b08e371a13527920d3078ab5d1aef2c9dda"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
@@ -227,8 +246,23 @@ hash = "2ba3112a833d6e23aae1e0a38a7a324f89efb8a532ea101f355dc38490840b3b"
 metafile = true
 
 [[files]]
+file = "mods/create-easy-stock-ticker.pw.toml"
+hash = "de4bcd0988db2d00762da6e174261d92dc8e93c57b66a63a35b6e5833da0086c"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
+metafile = true
+
+[[files]]
+file = "mods/create-live-radio.pw.toml"
+hash = "83a2a36bb52b800e82fd104cf01085dd00ee8c234c7f120b756f499768a463b9"
+metafile = true
+
+[[files]]
+file = "mods/create-meta-logistics.pw.toml"
+hash = "9be9defcf19f0cae1b38f3775d832b84f8f6f9724e3ea2309bccdcd7adc1afdc"
 metafile = true
 
 [[files]]
@@ -262,6 +296,11 @@ hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "a7573d104ed08069442eea7b0e30b40491cfa625302b507ea22bf4eb244d4cef"
 metafile = true
@@ -292,6 +331,16 @@ hash = "7d61ad815f97afb27f7e97475e80376aa19fecf25a1b04a500a4c3a6e5055973"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
@@ -317,6 +366,11 @@ hash = "87309254dc50bcedf00b64fee21a17b19eb4c9307b37ce468c49f57e03ee9079"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "702a028e2d428d352b4d664a21b0fb6182c20a930888a6c962f557aeba05871f"
 metafile = true
@@ -324,6 +378,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "a5dbb701e3c7e377cfbd6a595a0e743eee8471f07962712ac89ae34874f6b65d"
+metafile = true
+
+[[files]]
+file = "mods/jade-sable-compat.pw.toml"
+hash = "de4a88126c0c9ab4304ff4b6a9cf708d2587d0f572d035b51b3384e784dc6b2e"
 metafile = true
 
 [[files]]
@@ -354,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "6e1b5a63dddb53d1e5d911174237350a07ceb07a655027172c07057a2f7ba2cf"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
 metafile = true
 
 [[files]]
@@ -412,6 +476,11 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
 metafile = true
@@ -447,8 +516,18 @@ hash = "8fe9f40943b5e7d828fef5d3daab92d44f64f32311ea406758aab25409d223fb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/biomeless-music.pw.toml"
+hash = "324f998d6ec03c962b7cff271048ddf232f6cf5276d04da8b82678d4b634ad13"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cobblemotion.pw.toml"
 hash = "74cb2d1fbe0c76896dd3ac62c86ef3754dcf42cc35579778f26c6f3a4456f592"
+metafile = true
+
+[[files]]
+file = "resourcepacks/creative-music.pw.toml"
+hash = "973842c02239bfd5b2ef8c754c2629e682da6130601ede057398a1e66f8da0f5"
 metafile = true
 
 [[files]]

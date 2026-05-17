@@ -1,0 +1,13 @@
+name = "Biomeless Music"
+filename = "Biomless Music 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rOrpkz28/versions/IPS5laMn/Biomless%20Music%201.21.zip"
+hash-format = "sha512"
+hash = "072345c824dfbd71a3c2adb30b0b19867cec8e7aa07c8cd2a3c24a0f66aa755c1e47ab9e5b92a63ded51673537f626abb41ede75aa1ab8f3bef9a198f893e16c"
+
+[update]
+[update.modrinth]
+mod-id = "rOrpkz28"
+version = "IPS5laMn"

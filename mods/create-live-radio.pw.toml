@@ -1,0 +1,13 @@
+name = "Create Live Radio"
+filename = "radiomod-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QUoGjGKi/versions/xYQcy5uG/radiomod-1.0.2.jar"
+hash-format = "sha512"
+hash = "541c86242f7ce58d726fab39ab7b2c25c47798ad1ee99c1832c962ac02cb1cfa2c2663cc33ec19f6fda832307099b997e265762188e2ed8eacf5786dbd866765"
+
+[update]
+[update.modrinth]
+mod-id = "QUoGjGKi"
+version = "xYQcy5uG"

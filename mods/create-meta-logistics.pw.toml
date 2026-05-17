@@ -1,0 +1,13 @@
+name = "Create: Meta Logistics"
+filename = "createmetalogistics-1.21.1-0.4.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2ACRRn3U/versions/22gj5jAT/createmetalogistics-1.21.1-0.4.6.jar"
+hash-format = "sha512"
+hash = "c9b4082ae10e1b560c8775d5768e0d3b9b5c72251281684e1b102bfe9e63e5003eb68bcbca58ee24ea65d2d8a338e4131c4fb774e62599425c7b1de3a222795e"
+
+[update]
+[update.modrinth]
+mod-id = "2ACRRn3U"
+version = "22gj5jAT"
