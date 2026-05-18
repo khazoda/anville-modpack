@@ -2,6 +2,28 @@
 
 
 
+
+## [1.2.1] - 2026-05-18
+
+### Added
+```
+- Create Toolbox Tooltip
+- Create Slice & Dice
+- Create: Framed
+- Create: Escalated
+- Create: Bits 'n' Bobs
+- Create Smart Bounds
+- Create: Blueprinted
+```
+
+### Removed
+```
+- Create Live Radio
+- Client Sort
+```
+
+
+---
 ## [1.2.0] - 2026-05-17
 
 ### Added

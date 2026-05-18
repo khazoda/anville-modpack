@@ -1,0 +1,13 @@
+name = "Create Toolbox Tooltip"
+filename = "createtoolboxtooltip-1.0.4+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dzv48h3w/versions/rVXfSqsb/createtoolboxtooltip-1.0.4%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "dc26d541de229605637fe40844c24da563b4da38149499ac3742aa02bf9315bd60933ccd038d409cb14244354148edea7322ea7d7080c431f9687be584c8ed96"
+
+[update]
+[update.modrinth]
+mod-id = "Dzv48h3w"
+version = "rVXfSqsb"

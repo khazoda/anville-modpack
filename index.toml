@@ -18,7 +18,7 @@ hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "2938e60c37cc3c7c06372a755cf122efbdd49d6ebb23d69bd0ea017e6c71aefc"
+hash = "0ff661a9fa235d9918137fb7179d1963805d35c40455424e15f1ae179ee9be41"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -67,6 +67,10 @@ hash = "d29d85da6de80c65e099bf391b3b9b39be734ba1eef3a75a8b4544a9978a331c"
 [[files]]
 file = "config/defaultoptions/extra/config/moreculling.toml"
 hash = "b41da1ef0cd646e4f12c0249b02eb8af07502285b649d207c78cb41eb3987dbf"
+
+[[files]]
+file = "config/defaultoptions/extra/config/shulkerboxtooltip.json5"
+hash = "e6607386625e2127e76c1ffdda12710fce9e8cfeeaf0a5645050660776ee3a37"
 
 [[files]]
 file = "config/defaultoptions/extra/config/sodium-options.json"
@@ -143,11 +147,6 @@ metafile = true
 [[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "ffb0861ae37abc292e61208c8b7826b7b8287b24c07419083d4bb4ac109da4ee"
-metafile = true
-
-[[files]]
-file = "mods/clientsort.pw.toml"
-hash = "89865794f0fbe908f5b5b1c2628df8f9c0aa715313d305f08f922cf7b5c9be9d"
 metafile = true
 
 [[files]]
@@ -236,6 +235,16 @@ hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "0f67083a39e4b9aa80b1830257086f16734091f9ecb24e64dd208c19be2c4923"
+metafile = true
+
+[[files]]
+file = "mods/create-blueprinted.pw.toml"
+hash = "581b5f39c4b334409fd4eae24116229ff4aa3620dd249b6bfa5601648edcfd16"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
@@ -256,8 +265,8 @@ hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
 metafile = true
 
 [[files]]
-file = "mods/create-live-radio.pw.toml"
-hash = "83a2a36bb52b800e82fd104cf01085dd00ee8c234c7f120b756f499768a463b9"
+file = "mods/create-framed.pw.toml"
+hash = "c6f449a5dbd6640cef3a2d46f198af505b1d3fe7cb38c43057bb16ea055c3d7f"
 metafile = true
 
 [[files]]
@@ -276,8 +285,18 @@ hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
 metafile = true
 
 [[files]]
+file = "mods/create-smart-bounds.pw.toml"
+hash = "7e6cdbf3b08697812e6954426b5e1aa8f3159d48e5b63913d2814a54f62d52dc"
+metafile = true
+
+[[files]]
 file = "mods/create-stones.pw.toml"
 hash = "5e27d23ab07532da7bb1d9e19ce94fc1f8dad1924b61f980306d3822aeb7cd9c"
+metafile = true
+
+[[files]]
+file = "mods/create-toolbox-tooltip.pw.toml"
+hash = "936a7852aaee66384d1d9564536894c353803468ce32fa6697d6a0f54bc8b3fe"
 metafile = true
 
 [[files]]
@@ -318,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/entity-pin-cushions.pw.toml"
 hash = "8d971e2f5ecdc59b507fa585c6d18d26233058a5a77c0863b15194352f406b1e"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "33a5a487efc06e4dc8484e49a5707a52597c5a1dc716f2ec1dfe7bdfb5392187"
 metafile = true
 
 [[files]]
@@ -468,6 +492,16 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
 metafile = true
 
 [[files]]
