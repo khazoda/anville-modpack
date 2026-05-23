@@ -3,6 +3,27 @@
 
 
 
+
+## [1.2.2] - 2026-05-23
+
+### Added
+```
+- Copycats+ aeronautics weight
+- Create Aeronautics: Placeable Wheels
+- Separate Sable Render Distance (Aeronautics Addon)
+```
+
+
+### Updated
+```
+- vista: vista-neoforge-1.21.1-4.3.1.jar -> vista-neoforge-1.21.1-4.4.5.jar
+- Complementary Shaders - Unbound: ComplementaryUnbound_r5.8.zip -> ComplementaryUnbound_r5.8.1.zip
+- Supplementaries: supplementaries-neoforge-1.21.1-3.6.4.jar -> supplementaries-neoforge-1.21.1-3.6.5.jar
+- Create: Power Loader: create_power_loader-2.0.4-mc1.21.1.jar -> create_power_loader-2.0.5-mc1.21.1.jar
+- Moonlight Lib: moonlight-neoforge-1.21.1-3.0.9.jar -> moonlight-neoforge-1.21.1-3.0.14.jar
+```
+
+---
 ## [1.2.1] - 2026-05-18
 
 ### Added

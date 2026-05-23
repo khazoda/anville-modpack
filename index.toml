@@ -18,7 +18,7 @@ hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "0ff661a9fa235d9918137fb7179d1963805d35c40455424e15f1ae179ee9be41"
+hash = "2c7a9a69cd89961323592a3bc9b7402f9ccb5929bf3c282b184e2b2d04215f6d"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
@@ -220,6 +220,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats+-aeronautics-weight.pw.toml"
+hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -227,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-placeable-wheels.pw.toml"
+hash = "96969e793b0949a2ae1635efc3c7a902b8e9444ed564327ee7af05d5d551e25c"
 metafile = true
 
 [[files]]
@@ -281,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader.pw.toml"
-hash = "703c2d475167e08d77254c8944e2971899603cce61e4c87f870095386c725c74"
+hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
 
 [[files]]
@@ -446,12 +456,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1cc192126d1dcd27e12066bd7b78b9f9ab682f01e6fb538963371f7c4ed99e79"
+hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "71ce45e68a8a747cd7500ed7827b32b6f011f624f64a0cf850f7924e61549c52"
+hash = "f03453c765240dfcb327d95b1a77c300bad71da02638a36341c8e1820a5a1aea"
 metafile = true
 
 [[files]]
@@ -506,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
 metafile = true
 
 [[files]]
@@ -515,8 +525,13 @@ hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
 metafile = true
 
 [[files]]
+file = "mods/ssrd.pw.toml"
+hash = "5a97a663998b0a337febeae27a894142bce799e0a3323e217bed695dacbc6e9c"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
 metafile = true
 
 [[files]]
@@ -526,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
+hash = "ae383cdada253313a708a094c0f01d6d4fb79435f4346f52473e07d05624b122"
 metafile = true
 
 [[files]]
@@ -606,5 +621,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "4186d52e3f4eadf4ba35098431dd9d209d3f2637b1c7abb5668894594cc88246"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
 metafile = true
