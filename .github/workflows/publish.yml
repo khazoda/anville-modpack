@@ -20,8 +20,7 @@ jobs:
           unzip -q packwiz.zip
           chmod +x packwiz
           sudo mv packwiz /usr/local/bin/
-          echo "Installed packwiz. Running refresh..."
-          packwiz refresh -y
+          echo "Installed packwiz
 
       - name: Extract pack information
         id: pack_info

@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/README.md"
-hash = "3a831985d294ee1e6b469e4ec7a1e0aee72139d8dcac0054efe018fc9fdb6d61"
-
-[[files]]
-file = ".github/scripts/extract-changelog.sh"
-hash = "0e1174cbe766698f22c4a049056f9298950ccc77e401d749138aa688adde3e92"
-
-[[files]]
-file = ".github/workflows/README.md"
-hash = "535dccb9e1c29638aa288ffd4b478d066565f8489981bf91ded8902756177ecd"
-
-[[files]]
-file = ".github/workflows/publish.yml"
-hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
-
-[[files]]
-file = "CHANGELOG.md"
-hash = "a948e612dc58a7ecca462810c9e1e7f79a0062dbfdb32b8e2bb455d6d32cfc18"
-
-[[files]]
-file = "PUBLISH_RELEASE.md"
-hash = "4b99495e628dd9117f660d9107862ff9f565dccb68756c0dcb82fb1f5db899a1"
-
-[[files]]
 file = "basicweapons_materialpacks/bwmp_amethyst_minecraft.pw.toml"
 hash = "3d61d3c703d04f47c826de92f0aa64e0452721b2e419be9489776e6fcb4d0875"
 metafile = true
