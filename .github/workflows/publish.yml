@@ -22,8 +22,6 @@ jobs:
         run: |
           go install github.com/packwiz/packwiz@latest
           echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
-          packwiz --version
-          echo "Installed packwiz"
 
       - name: Extract pack information
         id: pack_info
