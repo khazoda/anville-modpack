@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/README.md"
-hash = "002653f45fc09191e8cfcaf8905320fd4efa5d39660258c1cb2bb38d4893e084"
+hash = "3a831985d294ee1e6b469e4ec7a1e0aee72139d8dcac0054efe018fc9fdb6d61"
 
 [[files]]
 file = ".github/scripts/extract-changelog.sh"
-hash = "29ae0e8ee04b35eff48988db71319799f3cd2b7476ebf45620208d660acc4a18"
+hash = "0e1174cbe766698f22c4a049056f9298950ccc77e401d749138aa688adde3e92"
 
 [[files]]
 file = ".github/workflows/README.md"
-hash = "0231f7ab25b8b77f18393111c29e7b157e10d2a4adff2c4d7c67e24a50787f6d"
+hash = "535dccb9e1c29638aa288ffd4b478d066565f8489981bf91ded8902756177ecd"
 
 [[files]]
 file = ".github/workflows/publish.yml"
@@ -18,11 +18,11 @@ hash = "ab2eec8bf370c6b621632af7b7a628fa7f2e03388ac00a14ad2a86c283e266e6"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "2c7a9a69cd89961323592a3bc9b7402f9ccb5929bf3c282b184e2b2d04215f6d"
+hash = "a948e612dc58a7ecca462810c9e1e7f79a0062dbfdb32b8e2bb455d6d32cfc18"
 
 [[files]]
 file = "PUBLISH_RELEASE.md"
-hash = "a7d49078553b35136310a89bb0403f1f7b1e59703ed84ab4436aee4f210f77b1"
+hash = "4b99495e628dd9117f660d9107862ff9f565dccb68756c0dcb82fb1f5db899a1"
 
 [[files]]
 file = "basicweapons_materialpacks/bwmp_amethyst_minecraft.pw.toml"
@@ -46,15 +46,15 @@ metafile = true
 
 [[files]]
 file = "config/defaultoptions/extra/config/DistantHorizons.toml"
-hash = "c55ba792db1608c53b3bb7523c4121ce80930fcbc7c5ba8f84f03167e43c3c60"
+hash = "e8657b9513e0a7b28571dac20cf759a4398d8c17fe3127429b69ee2a54922880"
 
 [[files]]
 file = "config/defaultoptions/extra/config/betterf3.toml"
-hash = "8845d39a2024e9b804111e28fbfcf060905df4979832104039a9d2f3a5781c40"
+hash = "9779b93a543f3d8fc270b22640167e82ef74a5cdf64255d771153f29bf58f32a"
 
 [[files]]
 file = "config/defaultoptions/extra/config/cobblemonoutbreaks/outbreaks_config.json"
-hash = "4b265f38ca9da9077f5ab4e781cd304291ecc0436936604414e23b1a3a45aa93"
+hash = "0904107f108103f031cc135098c0fbc5b45212bc6dcc9d5c660ab3449124fba8"
 
 [[files]]
 file = "config/defaultoptions/extra/config/constantmusic.toml"
@@ -62,19 +62,19 @@ hash = "ebeb675e785e269509f652073ccb32b9ecb88d07da4050a4852c54f814f14993"
 
 [[files]]
 file = "config/defaultoptions/extra/config/jade/jade.json"
-hash = "d29d85da6de80c65e099bf391b3b9b39be734ba1eef3a75a8b4544a9978a331c"
+hash = "3c223529c36ce84fc764d8fca33598991883d196596b2870646f45bc13fa69d3"
 
 [[files]]
 file = "config/defaultoptions/extra/config/moreculling.toml"
-hash = "b41da1ef0cd646e4f12c0249b02eb8af07502285b649d207c78cb41eb3987dbf"
+hash = "5533b815e41b69f4af7b8c2cf45c6dccbf1f146bebfbe6f97e4102a93efda472"
 
 [[files]]
 file = "config/defaultoptions/extra/config/shulkerboxtooltip.json5"
-hash = "e6607386625e2127e76c1ffdda12710fce9e8cfeeaf0a5645050660776ee3a37"
+hash = "843da6abdf57d5f36bb1cafbdb276ba97e493b4929888d3b5267b46539c0f251"
 
 [[files]]
 file = "config/defaultoptions/extra/config/sodium-options.json"
-hash = "f6af9f429655aba76b4cd1a5cbd59ebefcbdd35c8dfb29b6191f52008221b66b"
+hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-screenshot.pw.toml"
-hash = "4c4df070f62c9f0bf82033f75c917f6e9c793dd4caaae40b65597ddeb9117593"
+hash = "9241ef314e154349a65790430e9bf318d35ae3fddb14f1391bde57f9ff1b4a60"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6a9ca5c65d6ba60d1a9e5c8c3d9607fd70a6912dabe8f99cc74de4233d68108f"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
@@ -126,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "058287f345d5e7719048de55046a1845d28f1de387f569c72d8067714e88e0af"
+hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "280a5fc2561fec994f8464db37d17b21f03071fd94fbb728f725a33dff1a4261"
+hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c78021d923ba3e0dd2a4060b4fa4addd343974313cf3278f9e36359e903f442c"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mass-outbreaks.pw.toml"
-hash = "fa00eddc07dac559dced8034868cf07a8021ed78a46dfe4b3e5af6c01282a0d6"
+hash = "2e89bdc525d4bbc64969b1db112ab876b773a0313062e3ff1f0fefeb81b49617"
 metafile = true
 
 [[files]]
@@ -331,12 +331,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
-hash = "a7573d104ed08069442eea7b0e30b40491cfa625302b507ea22bf4eb244d4cef"
+hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "58d956bca6a862b16d3e822b7000711ee0ff8c96064b75b4d774f1b4d7fbd3db"
+hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-pin-cushions.pw.toml"
-hash = "8d971e2f5ecdc59b507fa585c6d18d26233058a5a77c0863b15194352f406b1e"
+hash = "bd5853500d0afb5d7b66abb26788c2b4193448bcf3029f367dd63742e7603a5b"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a5dbb701e3c7e377cfbd6a595a0e743eee8471f07962712ac89ae34874f6b65d"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/lighty.pw.toml"
-hash = "4e1ddc6dc20765da3293a598d695c8e2434a86406d635bf2942d03a1662ad131"
+hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "6e1b5a63dddb53d1e5d911174237350a07ceb07a655027172c07057a2f7ba2cf"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
 metafile = true
 
 [[files]]
@@ -461,12 +461,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "f03453c765240dfcb327d95b1a77c300bad71da02638a36341c8e1820a5a1aea"
+hash = "71ce45e68a8a747cd7500ed7827b32b6f011f624f64a0cf850f7924e61549c52"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "8fb510d47dafc024cd08c0e80bfb59e192c354cb5db74c07dd146ee79fe8b885"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c04ad2e883943640d5bc8e519c0b90e6cdd11e5b5a6d095b5838c477021771a0"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "4d5830dd5ab6fb35a450cf27292802279876fd7c1eeaa50a9522b679b456e0ea"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
 
 [[files]]
@@ -556,12 +556,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/banner-pattern-clarity.pw.toml"
-hash = "1a2453a95bc008973daf17d739d0a8bfee89d16e4f0a58ebfb887d7d6300f48e"
+hash = "80bfa8aa195545fde0596332d114c26fb74510282af534b02a82d0638f846164"
 metafile = true
 
 [[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
-hash = "8fe9f40943b5e7d828fef5d3daab92d44f64f32311ea406758aab25409d223fb"
+hash = "258c5930590083efc970b0aada275d8e3d19d26863a60baee63349d355d8359a"
 metafile = true
 
 [[files]]
@@ -581,22 +581,22 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/os-colorful-cobblestone.pw.toml"
-hash = "402e3685eec4356c16dea3028bf03ed1f52ea919740ae99a40dea9c769940b3e"
+hash = "f7c12cb54d087b9110c73cfd97aa61edbbc5ef88026452a39dabbb07134cc35c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/os-colorful-grasses.pw.toml"
-hash = "e0c1ae4cdecd9484b9bdead149547bb21588ff237a935fa0ec8b989f2bb1b567"
+hash = "d1985bf962297f4ce602ff1b983e3932a4d84ff15e9c4cb13f7243909bce8316"
 metafile = true
 
 [[files]]
 file = "resourcepacks/os-crops.pw.toml"
-hash = "398d681dbb06aaac4ef10666607cb57488be55e9fb475ff4d350af6dd8c9883f"
+hash = "5fbae5254d23435c0baec72d3556b030483072a9485375b714e1d250ca6e4cd4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/os-shulkers.pw.toml"
-hash = "076782a9f855f8ff5078a1ca6ee2487cc0159083a5bfb0416d29ff5ee0370c25"
+hash = "4946ef174ffb93890e2b10c8b8ef7ef15542c22e4ea12f701046935d19d6baf3"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
-hash = "b814fdd7288b3ff25a0378155e67a206666c607cb967df406893372751a9c873"
+hash = "9c83708bda22ded3c24b2213eab579f3eadbe04fd31219e3831181fb2b7dfe38"
 metafile = true
 
 [[files]]
