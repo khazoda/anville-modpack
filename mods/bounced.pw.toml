@@ -1,0 +1,13 @@
+name = "Bounced"
+filename = "bounced-4.1.4-neoforge.1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2mlOZXZr/versions/DE4AgIDs/bounced-4.1.4-neoforge.1.21.1.jar"
+hash-format = "sha512"
+hash = "3216335c085cc80e81e305e5fa54b8d0f16b01d1392fea8b7ee88091c964b901b96f8943dff6dd7fb9db36509b4e31711f831fbc6c28a898d83d31b5c353cc87"
+
+[update]
+[update.modrinth]
+mod-id = "2mlOZXZr"
+version = "DE4AgIDs"

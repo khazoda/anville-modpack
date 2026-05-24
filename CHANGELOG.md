@@ -4,6 +4,34 @@
 
 
 
+
+
+## [1.2.3] - 2026-05-24
+
+### Added
+```
+- TooManyRecipeViewers
+- Bounced
+- Clumps
+- Packet Fixer
+- Fast IP Ping
+```
+
+### Removed
+```
+- Just Enough Items
+- Inventory Essentials
+- Lighty
+- Nature's Compass
+```
+
+### Updated
+```
+- vista: vista-neoforge-1.21.1-4.4.5.jar -> vista-neoforge-1.21.1-4.4.8.jar
+- ModernFix: modernfix-neoforge-5.27.8+mc1.21.1.jar -> modernfix-neoforge-5.27.9+mc1.21.1.jar
+```
+
+---
 ## [1.2.2] - 2026-05-23
 
 ### Added
