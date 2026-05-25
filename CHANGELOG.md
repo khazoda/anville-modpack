@@ -9,6 +9,24 @@
 
 
 
+
+## [1.2.7] - 2026-05-25
+
+### Added
+```
+- Steam 'n' Rails Neoforge
+- Create: Train Track Rail Grinding
+```
+
+### Removed
+```
+- Continuity
+- Sinytra Connector
+- Forgified Fabric API
+```
+
+
+---
 ## [1.2.6] - 2026-05-25
 
 
