@@ -8,6 +8,22 @@
 
 
 
+
+## [1.2.6] - 2026-05-25
+
+
+### Removed
+```
+- Create Smart Bounds
+```
+
+### Updated
+```
+- ModernFix: modernfix-neoforge-5.27.10+mc1.21.1.jar -> modernfix-neoforge-5.27.11+mc1.21.1.jar
+- Immersive Aircraft: immersive_aircraft-1.4.3+1.21.1-neoforge.jar -> immersive_aircraft-1.4.5+1.21.1-neoforge.jar
+```
+
+---
 ## [1.2.5] - 2026-05-25
 
 
