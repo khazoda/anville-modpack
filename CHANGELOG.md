@@ -6,6 +6,24 @@
 
 
 
+
+## [1.2.4] - 2026-05-25
+
+### Added
+```
+- Void Fog
+```
+
+
+### Updated
+```
+- Quark: Quark-4.1-479.jar -> Quark-4.1-480.jar
+- ModernFix: modernfix-neoforge-5.27.9+mc1.21.1.jar -> modernfix-neoforge-5.27.10+mc1.21.1.jar
+- Separate Sable Render Distance (Aeronautics Addon): SSRD-0.4-1.21.1.jar -> SSRD-0.5-1.21.1.jar
+- TooManyRecipeViewers: toomanyrecipeviewers-0.7.3+mc.21.1.jar -> toomanyrecipeviewers-0.8.0+mc.21.1.jar
+```
+
+---
 ## [1.2.3] - 2026-05-24
 
 ### Added

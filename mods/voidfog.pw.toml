@@ -1,0 +1,13 @@
+name = "Void Fog"
+filename = "VoidFog-1.21.1-2.1.36.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cAptbNNE/versions/UevHoQP1/VoidFog-1.21.1-2.1.36.jar"
+hash-format = "sha512"
+hash = "c04e905c63e5ba3ec4be7cdf8f11edefab512fe40166b7938559216706c837fc3cd7224439cefb53435f5ec4221ec2eb06539c939fe68828d5132d155830498d"
+
+[update]
+[update.modrinth]
+mod-id = "cAptbNNE"
+version = "UevHoQP1"

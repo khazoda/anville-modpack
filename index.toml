@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "275d6b36432fdde0c95c5fb6175fe2abe63f584b66a763644e31a360ecf9b9b9"
+hash = "75896060889a17eb50fbeda050a9da964d76d4bbd0a23ffccc913e27ac6e2a78"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "d891b5301e4fe59ad978edd97c1477c50f928c4a2cfb31d8cdcc7f4965323267"
+hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "5a97a663998b0a337febeae27a894142bce799e0a3323e217bed695dacbc6e9c"
+hash = "d0854c170e1c60a2d6958654ce4017e5ccf1d60e3f9211e995e376cf8e17419d"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "5bc9781110b5b926aa0cd2d19ddc1aa2ed0cb9e5678e63ef730ade61abab06ab"
+hash = "8a7eaaed928ee16df7023cd12c419fa64f67a847895a523dd1db54e501673d17"
 metafile = true
 
 [[files]]
@@ -523,6 +523,11 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "c6bda706732a64892f8e0bffc746fafefc12cb63ba6c6ada066d183f01fa55c0"
+metafile = true
+
+[[files]]
+file = "mods/voidfog.pw.toml"
+hash = "1d05550c9de425389906173c195e8acd6b97c45abea51ecc88bcd20fce7e6178"
 metafile = true
 
 [[files]]
