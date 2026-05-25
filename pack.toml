@@ -1,6 +1,6 @@
 name = "Anville"
 author = "Khazoda"
-version = "1.2.4"
+version = "1.2.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,7 +10,7 @@ hash = "6df26f4ca732c7ae815317484e3819a92238f809f593c3b7677140f099c5afd6"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.227"
+neoforge = "21.1.230"
 
 [options]
 acceptable-game-versions = ["1.21", "1.21.1"]
