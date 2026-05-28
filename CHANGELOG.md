@@ -10,6 +10,19 @@
 
 
 
+
+## [1.2.8] - 2026-05-28
+
+
+
+### Updated
+```
+- Plushables: plushables-neoforge-2.1.0+1.21.1.jar -> plushables-neoforge-2.2.0+1.21.1.jar
+- Immersive Aircraft: immersive_aircraft-1.4.5+1.21.1-neoforge.jar -> immersive_aircraft-1.4.6+1.21.1-neoforge.jar
+- TooManyRecipeViewers: toomanyrecipeviewers-0.7.3+mc.21.1.jar -> toomanyrecipeviewers-0.8.1+mc.21.1.jar
+```
+
+---
 ## [1.2.7] - 2026-05-25
 
 ### Added

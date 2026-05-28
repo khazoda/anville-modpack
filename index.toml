@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "37e8e5cc70d6c27591f8b258a7e6c3642160b56b3c0ab93ce4d4107d366c30a6"
+hash = "306c6a05c47046994a065bd8a461bd1ba1a7a8187f267c35ddf81c0a3041ed98"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "93449b92950bb20029e7a6623f91881ccfa2d70907e92669c3b3b772923269de"
+hash = "49ebaac242bbb6620a733ac00298f94d51e3e0dd8471cc876339cd9813c0d585"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "5bc9781110b5b926aa0cd2d19ddc1aa2ed0cb9e5678e63ef730ade61abab06ab"
+hash = "b28cc434de3932e66c46ed31a8e28d5ea1e28ad1b77f0a9bfa863cfc71c51071"
 metafile = true
 
 [[files]]
