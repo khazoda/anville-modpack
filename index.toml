@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-create-industries.pw.toml"
-hash = "1293a640844bb49123c1784e6744989c2ac903860b6e869ef1d313ff61632237"
+hash = "20cd47031172f8f6504bcbebc8a1084aa630e9acd498fbfa7f5641b05f0143e8"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "c6bda706732a64892f8e0bffc746fafefc12cb63ba6c6ada066d183f01fa55c0"
+hash = "c493f2722c4a9c08029f43140babc8f37bacfda57932ce5b29b29e388710fe82"
 metafile = true
 
 [[files]]
