@@ -20,8 +20,6 @@
 ```
 - vista: vista-neoforge-1.21.1-4.4.8.jar -> vista-neoforge-1.21.1-4.4.9.jar
 - Cobblemon: Create Industries (3D Production Models): cobblemon_industries-neoforge-1.3.2.jar -> cobblemon_industries-neoforge-1.4.0.jar
-- Sodium: sodium-neoforge-0.6.13+mc1.21.1.jar -> sodium-neoforge-0.8.12-alpha.4+mc1.21.1.jar
-- More Culling: moreculling-neoforge-1.21.1-1.0.7.jar -> moreculling-neoforge-1.21.1-1.0.8.jar
 ```
 
 ---
