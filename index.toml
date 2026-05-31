@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/escalated.pw.toml"
-hash = "33a5a487efc06e4dc8484e49a5707a52597c5a1dc716f2ec1dfe7bdfb5392187"
+hash = "5822270769e6a4d6372fa5d88eeb003f719a539cc60eb047006cfa9b81baab02"
 metafile = true
 
 [[files]]
@@ -408,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
+file = "mods/massweightcompat.pw.toml"
+hash = "577d96b001d932039a93460c46a3050a2213cdd4397ed4fb585683c1cb790b25"
 metafile = true
 
 [[files]]
@@ -492,12 +497,12 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "d0854c170e1c60a2d6958654ce4017e5ccf1d60e3f9211e995e376cf8e17419d"
+hash = "8f612f53fb6bf69e22dbb3cc846d2b8a8d9955272b72a210942dd022bf276824"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
+hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
 metafile = true
 
 [[files]]

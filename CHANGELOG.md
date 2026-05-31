@@ -12,6 +12,23 @@
 
 
 
+
+## [1.2.10] - 2026-05-31
+
+### Added
+```
+- Create Aeronautics: Sable Mass Mod Compatibility
+```
+
+
+### Updated
+```
+- Create: Escalated: escalated-1.2.1+create.6.0.8-mc.1.21.1-neoforge.jar -> escalated-1.3.1-mc.1.21.1.jar
+- Supplementaries: supplementaries-neoforge-1.21.1-3.6.5.jar -> supplementaries-neoforge-1.21.1-3.6.6.jar
+- Separate Sable Render Distance (Aeronautics Addon): SSRD-0.5-1.21.1.jar -> SSRD-0.5.2-1.21.1.jar
+```
+
+---
 ## [1.2.9] - 2026-05-30
 
 

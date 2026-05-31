@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Sable Mass Mod Compatibility"
+filename = "massweightcompat-1.0.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bJLW7HUi/versions/u1pVVtCW/massweightcompat-1.0.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d2ec3f3819f46f45237e9e7a2d64ed19ea4850dde3022b27826a7c9f6f38ab6db9e049e4d245eb73a65a37c3bb947789639881f4eda1035083551afc28774cef"
+
+[update]
+[update.modrinth]
+mod-id = "bJLW7HUi"
+version = "u1pVVtCW"
