@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/massweightcompat.pw.toml"
-hash = "577d96b001d932039a93460c46a3050a2213cdd4397ed4fb585683c1cb790b25"
+hash = "30c37dba5ec4db598eefed18fc7fef66b3eb53cc6a61cf974cee9e35640979b6"
 metafile = true
 
 [[files]]

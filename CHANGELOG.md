@@ -13,6 +13,17 @@
 
 
 
+
+## [1.2.11] - 2026-06-01
+
+
+
+### Updated
+```
+- Create Aeronautics: Sable Mass Mod Compatibility: massweightcompat-1.0.1+1.21.1.jar -> massweightcompat-1.0.3+1.21.1.jar
+```
+
+---
 ## [1.2.10] - 2026-05-31
 
 ### Added
