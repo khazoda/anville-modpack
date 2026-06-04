@@ -14,6 +14,21 @@
 
 
 
+
+## [1.2.12] - 2026-06-04
+
+
+
+### Updated
+```
+- Separate Sable Render Distance (Aeronautics Addon): SSRD-0.5.2-1.21.1.jar -> SSRD-1.6-1.21.1.jar
+- Supplementaries: supplementaries-neoforge-1.21.1-3.6.6.jar -> supplementaries-neoforge-1.21.1-3.6.7.jar
+- Plushables: plushables-neoforge-2.2.0+1.21.1.jar -> plushables-neoforge-2.2.1+1.21.1.jar
+- Create: Dragons Plus: CreateDragonsPlus-1.10.1.jar -> CreateDragonsPlus-1.11.0.jar
+- Create Aeronautics: Sable Mass Mod Compatibility: massweightcompat-1.0.3+1.21.1.jar -> massweightcompat-1.0.4+1.21.1.jar
+```
+
+---
 ## [1.2.11] - 2026-06-01
 
 

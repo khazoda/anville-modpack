@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "2ba3112a833d6e23aae1e0a38a7a324f89efb8a532ea101f355dc38490840b3b"
+hash = "ef2d333d347a078be03052467c95e936beb7c17da63b2f6dd820969182996a63"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/massweightcompat.pw.toml"
-hash = "30c37dba5ec4db598eefed18fc7fef66b3eb53cc6a61cf974cee9e35640979b6"
+hash = "85b5050c10b750f76e40a68c2df557f1e389df95ab70a5e103f49747b1fed02a"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "49ebaac242bbb6620a733ac00298f94d51e3e0dd8471cc876339cd9813c0d585"
+hash = "6f151420974729435aa78b0e04ad30d00f6182982deea785c7b8013aaa4a6d0d"
 metafile = true
 
 [[files]]
@@ -497,12 +497,12 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "8f612f53fb6bf69e22dbb3cc846d2b8a8d9955272b72a210942dd022bf276824"
+hash = "ffaa11cd58e879d8309976f670f82d156ef5286cef6daad2e76b0fc3902fb4e0"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
+hash = "148c5d14dfeca914d20ceea4defa9660fe588e6fc22cea23cab745504d4b2453"
 metafile = true
 
 [[files]]
