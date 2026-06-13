@@ -1,21 +1,18 @@
 ﻿# Changelog
 
 
+## [1.2.14] - 2026-06-13
 
 
 
+### Updated
+```
+- Chat Heads: chat_heads-0.15.1-neoforge-1.21.jar -> chat_heads-0.15.2-neoforge-1.21.jar
+- More Culling: moreculling-neoforge-1.21.1-1.0.7.jar -> moreculling-neoforge-1.21.1-1.0.8.jar
+- Sodium: sodium-neoforge-0.6.13+mc1.21.1.jar -> sodium-neoforge-0.8.12-beta.1+mc1.21.1.jar
+```
 
-
-
-
-
-
-
-
-
-
-
-
+---
 ## [1.2.13] - 2026-06-13
 
 
