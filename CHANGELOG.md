@@ -5,7 +5,7 @@
 ## [1.2.15] - 2026-06-13
 
 
-### Removed
+### Rejigged
 ```
 - Create Aeronautics: Dyeable Components
 ```
