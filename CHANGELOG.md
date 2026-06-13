@@ -15,6 +15,30 @@
 
 
 
+
+## [1.2.13] - 2026-06-13
+
+
+
+### Updated
+```
+- Collective: collective-1.21.1-8.22.jar -> collective-1.21.1-8.25.jar
+- ModernFix: modernfix-neoforge-5.27.11+mc1.21.1.jar -> modernfix-neoforge-5.27.12+mc1.21.1.jar
+- Separate Sable Render Distance (Aeronautics Addon): SSRD-1.6-1.21.1.jar -> SSRD-1.7.1-1.21.1.jar
+- Sable: sable-neoforge-1.21.1-1.2.2.jar -> sable-neoforge-1.21.1-2.0.1.jar
+- Steam 'n' Rails Neoforge: railways-0.2.0+neoforge-mc1.21.1.jar -> railways-0.2.1+neoforge-mc1.21.1.jar
+- vista: vista-neoforge-1.21.1-4.4.9.jar -> vista-neoforge-1.21.1-4.4.11.jar
+- Supplementaries: supplementaries-neoforge-1.21.1-3.6.7.jar -> supplementaries-neoforge-1.21.1-3.6.8.jar
+- Create: Enchantment Industry: create-enchantment-industry-2.3.1.jar -> create-enchantment-industry-2.4.2.jar
+- Jade Sable Compat: sablejade-1.1.0.jar -> sablejade-1.2.0.jar
+- Moonlight Lib: moonlight-neoforge-1.21.1-3.0.14.jar -> moonlight-neoforge-1.21.1-3.0.17.jar
+- Create: Hypertubes: create_hypertube-0.4.0-COMPAT-NEOFORGE.jar -> create_hypertube-0.4.0-SABLE-COMPAT-NEOFORGE.jar
+- Iris Shaders: iris-neoforge-1.8.12+mc1.21.1.jar -> iris-neoforge-1.8.14-beta.1+mc1.21.1.jar
+- Create: Dragons Plus: CreateDragonsPlus-1.11.0.jar -> CreateDragonsPlus-1.11.2b.jar
+- Create Aeronautics: create-aeronautics-bundled-1.21.1-1.2.1.jar -> create-aeronautics-bundled-1.21.1-1.3.0.jar
+```
+
+---
 ## [1.2.12] - 2026-06-04
 
 
