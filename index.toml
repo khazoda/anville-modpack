@@ -301,10 +301,6 @@ hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
-file = "mods/dyeable-components-1.0.1+mc1.21.1.jar"
-hash = "bfd4568fe83b2636c06b8a153476d2cf7b2fee56279c7c31286ff2213c4389e4"
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
@@ -492,11 +488,6 @@ metafile = true
 [[files]]
 file = "mods/some-assembly-required.pw.toml"
 hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
-metafile = true
-
-[[files]]
-file = "mods/ssrd.pw.toml"
-hash = "1a8c3d6ea5da99e223a66c521362cc4c5d39c6f3987981fc3b47c50b39631015"
 metafile = true
 
 [[files]]

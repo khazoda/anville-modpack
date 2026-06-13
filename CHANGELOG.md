@@ -2,6 +2,13 @@
 
 
 
+
+## [1.2.16] - 2026-06-14
+
+
+
+
+---
 ## [1.2.15] - 2026-06-13
 
 
@@ -123,6 +130,7 @@
 - Continuity
 - Sinytra Connector
 - Forgified Fabric API
+- Separate Sable Render Distance (Aeronautics Addon)
 ```
 
 
