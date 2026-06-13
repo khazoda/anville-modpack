@@ -71,11 +71,6 @@ hash = "9241ef314e154349a65790430e9bf318d35ae3fddb14f1391bde57f9ff1b4a60"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics-dyeable-components.pw.toml"
-hash = "b218b7696365829e01cc3b6844913c757836d1ebdb0c49a9abf7a7fcbc0f6678"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
 metafile = true
@@ -304,6 +299,10 @@ metafile = true
 file = "mods/distanthorizons.pw.toml"
 hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
+
+[[files]]
+file = "mods/dyeable-components-1.0.1+mc1.21.1.jar"
+hash = "bfd4568fe83b2636c06b8a153476d2cf7b2fee56279c7c31286ff2213c4389e4"
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"

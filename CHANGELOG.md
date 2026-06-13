@@ -1,6 +1,17 @@
 ﻿# Changelog
 
 
+
+## [1.2.15] - 2026-06-13
+
+
+### Removed
+```
+- Create Aeronautics: Dyeable Components
+```
+
+
+---
 ## [1.2.14] - 2026-06-13
 
 
