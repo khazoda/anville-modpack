@@ -4,6 +4,33 @@
 
 
 
+
+
+
+## [1.3.0] - 2026-06-19
+
+### Added
+```
+- Xaero's World Map
+- Xaero Train Map
+- CreateBetterFps
+- Exposure
+- Ok Zoomer - It's Zoom!
+- Better Ping Display [Forge/NeoForge]
+- Flerovium
+- Aeronautics Camera Sync
+- What Are They Up To (Watut)
+- Analog Audio
+- Create Ratatouille
+- Create: Nowheel
+- Saturn
+- Ixeris
+- Better Biome Blend
+```
+
+
+
+---
 ## [1.2.17] - 2026-06-19
 
 ### Added
