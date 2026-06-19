@@ -140,27 +140,183 @@ function Set-Version {
     Read-Host "`nPress Enter to continue"
 }
 
+function Get-TomlValue {
+    param(
+        [string]$Content,
+        [string]$Key
+    )
+    
+    $escapedKey = [regex]::Escape($Key)
+    if ($Content -match "(?m)^\s*$escapedKey\s*=\s*`"([^`"]*)`"") {
+        return $matches[1]
+    }
+    
+    return $null
+}
+
+function Set-TomlValue {
+    param(
+        [string]$Content,
+        [string]$Key,
+        [string]$Value
+    )
+    
+    $escapedKey = [regex]::Escape($Key)
+    $escapedValue = $Value.Replace('\', '\\').Replace('"', '\"')
+    $pattern = "(?m)^(\s*$escapedKey\s*=\s*)`"[^`"]*`""
+    
+    return [regex]::Replace($Content, $pattern, {
+        param($match)
+        return "$($match.Groups[1].Value)`"$escapedValue`""
+    })
+}
+
+function Get-PackGameVersions {
+    $packContent = Get-Content "pack.toml" -Raw
+    $versions = @()
+    
+    $minecraftVersion = Get-TomlValue -Content $packContent -Key "minecraft"
+    if (-not [string]::IsNullOrWhiteSpace($minecraftVersion)) {
+        $versions += $minecraftVersion
+    }
+    
+    if ($packContent -match 'acceptable-game-versions\s*=\s*\[([^\]]+)\]') {
+        $versions += [regex]::Matches($matches[1], '"([^"]+)"') | ForEach-Object { $_.Groups[1].Value }
+    }
+    
+    return @($versions | Where-Object { -not [string]::IsNullOrWhiteSpace($_) } | Select-Object -Unique)
+}
+
+function Get-AllowedVersionTypes {
+    param([string]$CurrentType)
+    
+    switch ($CurrentType) {
+        "alpha" { return @("release", "alpha") }
+        "beta" { return @("release", "beta") }
+        default { return @("release") }
+    }
+}
+
+function Test-ArrayOverlap {
+    param(
+        [object[]]$Left,
+        [object[]]$Right
+    )
+    
+    foreach ($item in $Left) {
+        if ($Right -contains $item) {
+            return $true
+        }
+    }
+    
+    return $false
+}
+
+function Get-ModrinthVersionFile {
+    param([object]$Version)
+    
+    $primaryFile = $Version.files | Where-Object { $_.primary } | Select-Object -First 1
+    if ($null -ne $primaryFile) {
+        return $primaryFile
+    }
+    
+    return $Version.files | Select-Object -First 1
+}
+
+function Update-ModrinthMetaFile {
+    param([string]$Path)
+    
+    $content = Get-Content $Path -Raw
+    if ($content -notmatch '(?m)^\s*\[update\.modrinth\]\s*$') {
+        Write-Host "Skipping non-Modrinth entry: $Path" -ForegroundColor Yellow
+        return $null
+    }
+    
+    $modName = Get-TomlValue -Content $content -Key "name"
+    $oldFile = Get-TomlValue -Content $content -Key "filename"
+    $modId = Get-TomlValue -Content $content -Key "mod-id"
+    $currentVersionId = Get-TomlValue -Content $content -Key "version"
+    
+    if ([string]::IsNullOrWhiteSpace($modId) -or [string]::IsNullOrWhiteSpace($currentVersionId)) {
+        Write-Host "Skipping incomplete Modrinth metadata: $Path" -ForegroundColor Yellow
+        return $null
+    }
+    
+    try {
+        $currentVersion = Invoke-RestMethod -Uri "https://api.modrinth.com/v2/version/$currentVersionId"
+        $projectVersions = Invoke-RestMethod -Uri "https://api.modrinth.com/v2/project/$modId/version"
+    } catch {
+        Write-Host "Failed to fetch Modrinth versions for $Path`: $($_.Exception.Message)" -ForegroundColor Red
+        return $null
+    }
+    
+    $allowedTypes = Get-AllowedVersionTypes -CurrentType $currentVersion.version_type
+    $packGameVersions = Get-PackGameVersions
+    $currentLoaders = @($currentVersion.loaders)
+    
+    $candidate = $projectVersions |
+        Where-Object {
+            ($allowedTypes -contains $_.version_type) -and
+            (Test-ArrayOverlap -Left @($_.game_versions) -Right $packGameVersions) -and
+            (Test-ArrayOverlap -Left @($_.loaders) -Right $currentLoaders) -and
+            ($null -ne (Get-ModrinthVersionFile -Version $_))
+        } |
+        Sort-Object { [datetime]$_.date_published } -Descending |
+        Select-Object -First 1
+    
+    if ($null -eq $candidate -or $candidate.id -eq $currentVersionId) {
+        return $null
+    }
+    
+    $newFileInfo = Get-ModrinthVersionFile -Version $candidate
+    $newHash = $newFileInfo.hashes.sha512
+    $hashFormat = "sha512"
+    
+    if ([string]::IsNullOrWhiteSpace($newHash)) {
+        $newHash = $newFileInfo.hashes.sha1
+        $hashFormat = "sha1"
+    }
+    
+    if ([string]::IsNullOrWhiteSpace($newFileInfo.filename) -or [string]::IsNullOrWhiteSpace($newFileInfo.url) -or [string]::IsNullOrWhiteSpace($newHash)) {
+        Write-Host "Skipping update with incomplete file data for $Path" -ForegroundColor Yellow
+        return $null
+    }
+    
+    $newContent = $content
+    $newContent = Set-TomlValue -Content $newContent -Key "filename" -Value $newFileInfo.filename
+    $newContent = Set-TomlValue -Content $newContent -Key "url" -Value $newFileInfo.url
+    $newContent = Set-TomlValue -Content $newContent -Key "hash-format" -Value $hashFormat
+    $newContent = Set-TomlValue -Content $newContent -Key "hash" -Value $newHash
+    $newContent = Set-TomlValue -Content $newContent -Key "version" -Value $candidate.id
+    $newContent | Out-File $Path -Encoding utf8 -NoNewline
+    
+    return [PSCustomObject]@{
+        ModName = $modName
+        OldFile = $oldFile
+        NewFile = $newFileInfo.filename
+        VersionType = $candidate.version_type
+    }
+}
+
 function Update-All-Mods {
     Write-Host "`nUpdate All Mods" -ForegroundColor Cyan
     
     Write-Host "Updating mods..."
-    $updateOutput = packwiz update -a -y 2>&1 | Out-String
-    Write-Host $updateOutput
+    $metaFiles = Get-ChildItem -Path mods,resourcepacks,shaderpacks,basicweapons_materialpacks -Filter *.pw.toml -Recurse
+    $updatedCount = 0
     
-    # Parse for updates
-    $updateOutput -split "`n" | ForEach-Object {
-        if ($_ -match '(.+?):\s+(.+?)\s+->\s+(.+)') {
-            $modName = $matches[1].Trim()
-            $oldFile = $matches[2].Trim()
-            $newFile = $matches[3].Trim()
-            
-            $changeText = "$modName" + ": $oldFile -> $newFile"
+    foreach ($metaFile in $metaFiles) {
+        $update = Update-ModrinthMetaFile -Path $metaFile.FullName
+        if ($null -ne $update) {
+            $updatedCount++
+            $changeText = "$($update.ModName): $($update.OldFile) -> $($update.NewFile)"
+            Write-Host $changeText
             & "$PSScriptRoot\Update-Changelog.ps1" -ModName $changeText -Section "Updated"
         }
     }
     
     packwiz refresh
-    Write-Host "`nMods updated and changelog updated!" -ForegroundColor Green
+    Write-Host "`n$updatedCount mods updated and changelog updated!" -ForegroundColor Green
     Read-Host "`nPress Enter to continue"
 }
 
