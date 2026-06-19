@@ -1,0 +1,13 @@
+name = "faun"
+filename = "faun-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1snF16kT/versions/onsvVnjQ/faun-2.0.0.jar"
+hash-format = "sha512"
+hash = "a91a26278614af7894c73d1822522b4bc3ecdd2ab0171db9079a5689fef8713e3d5d9efd1f9f738357b4ea6d851b0a8f7dafe48a99711c9ad278a8a37637a2e5"
+
+[update]
+[update.modrinth]
+mod-id = "1snF16kT"
+version = "onsvVnjQ"

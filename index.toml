@@ -30,7 +30,7 @@ hash = "9779b93a543f3d8fc270b22640167e82ef74a5cdf64255d771153f29bf58f32a"
 
 [[files]]
 file = "config/defaultoptions/extra/config/cobblemonoutbreaks/outbreaks_config.json"
-hash = "0904107f108103f031cc135098c0fbc5b45212bc6dcc9d5c660ab3449124fba8"
+hash = "6c79c93ea62d003703cb8020fb87c81ae2e4121efc4c3df6a4167adbf3302cfb"
 
 [[files]]
 file = "config/defaultoptions/extra/config/constantmusic.toml"
@@ -54,7 +54,7 @@ hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "6922e71d0b98e48708089a43f5254ef9f2427a326050f76e48879d1d638e2e1b"
+hash = "769faf44eca160b53a22785485f6466d1fd55b01e913834e9172d68ae3938ee6"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -62,7 +62,7 @@ hash = "a94fa981380dcc040edb9154bcd03615008a1a7ab4a1b2366a2d4e2eb93aa10c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
+hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
+hash = "76122ac2bb341daceebb19cd69e1f3bf19efea88fa59010865c1b8f02ea1d759"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "74bc0383c39468bf65dc1939e3ca4824409142c16c3896437da78fbd7fb658cd"
+hash = "5bd6815fb48b4aa3985e2a07bf00b7a66da24d9b289d58c9492da19d902b2e2a"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "9632e3a695f69473d879e285e46007fd5037cb5abc8db02a8bec79689864d0fc"
+hash = "ff6a3d4bed914978aada4a059a16100cd2fd69a3cf19987c0d80160a7125e78b"
 metafile = true
 
 [[files]]
@@ -267,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-rail-grinding.pw.toml"
-hash = "510e9c3cddc2ff8d5406dd27019705d7e5f03b65d3a8de4c0c98815fda0856dc"
+hash = "c71bb895f0149f9df4eb89168b818cbd77cb83bf5a11954bee8a60a26ef28ea7"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
-hash = "84cff9a09538552608e32a14b4f7f37d5ac0f4cface3953e68c3af5104217554"
+hash = "096b8e62fe666bc8e32d4fd5c5512dcd3e464f7f4e29979f00d8ddd2e22a931e"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+hash = "417f2100f84d1876f9318f158ffb5653e84962b88bc47b093d33ab3e7cdbd2a1"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-ores.pw.toml"
-hash = "0b921f73d5b1ad6615740956567d6cb06950f5520f094dbb7a045bb4bd5ba309"
+hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
 metafile = true
 
 [[files]]
@@ -348,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "f3935636357eb78086ff6ba4e8ed68ea0d63411dadbaaf97f25727cfbc6399e3"
+metafile = true
+
+[[files]]
+file = "mods/faun.pw.toml"
+hash = "0547262c7abd3a0444338cbe104019f8e48cfcb43ad1334c44de22ef79362091"
 metafile = true
 
 [[files]]
@@ -387,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-sable-compat.pw.toml"
-hash = "bde194eaa5802d0800aa6f468744d79023aa208a5cb9bde8b70001f2a77b17fc"
+hash = "9728776375b66d2b4a450238373072873ed0e50596e95fca857368726f38ecb3"
 metafile = true
 
 [[files]]
@@ -417,12 +422,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c8ac0bf19049381f3f05aa46bfea8f2a742d340a3285ecfb7118eab6327cff99"
+hash = "983d6ab9d9a7d40031f1789f5ae018cccb889832ac8ce741df60a9d8e5f42817"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "23ae6070690635c357040e1361922474ca25a1b0cc621bd9204070ec6c74acaf"
+hash = "ebca20d77b200ff48f7e431ccffac2c2db6844ef4f9304452a0201f5c0307008"
 metafile = true
 
 [[files]]
@@ -437,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
+hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
 
 [[files]]
@@ -462,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "07c1d1a846572a60bf88dc54977d9a65d20f74c19209cb82e8d7dfe0d3cdfadf"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]

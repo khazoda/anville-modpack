@@ -3,6 +3,35 @@
 
 
 
+
+## [1.2.17] - 2026-06-19
+
+### Added
+```
+- faun
+- Create: Hypertubes
+```
+
+
+### Updated
+```
+- Jade Sable Compat: sablejade-1.2.0.jar -> sablejade-1.2.1.jar
+- Collective: collective-1.21.1-8.25.jar -> collective-1.21.1-8.29.jar
+- Create: Train Track Rail Grinding: createrailgrinding-1.1.2.jar -> createrailgrinding-1.2.1.jar
+- Steam 'n' Rails Neoforge: railways-0.2.1+neoforge-mc1.21.1.jar -> railways-0.3.0-alpha.2+neoforge-mc1.21.1.jar
+- Not Enough Animations: notenoughanimations-neoforge-1.12.3-mc1.21.1.jar -> notenoughanimations-neoforge-1.12.4-mc1.21.1.jar
+- Balm: balm-neoforge-1.21.1-21.0.58.jar -> balm-neoforge-1.21.1-21.0.59.jar
+- Distant Horizons: DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar -> DistantHorizons-3.1.0-b-1.21.1-fabric-neoforge.jar
+- Moonlight Lib: moonlight-neoforge-1.21.1-3.0.17.jar -> moonlight-neoforge-1.21.1-3.0.18.jar
+- 3D Skin Layers: skinlayers3d-neoforge-1.11.1-mc1.21.1.jar -> skinlayers3d-neoforge-1.11.2-mc1.21.1.jar
+- EMI Ores: emi_ores-1.2+1.21.1+neoforge.jar -> emi_ores-1.3+1.21.1+neoforge.jar
+- Create: Enchantment Industry: create-enchantment-industry-2.4.2.jar -> create-enchantment-industry-2.5.0-preview-alpha1.jar
+- ModernFix: modernfix-neoforge-5.27.12+mc1.21.1.jar -> modernfix-neoforge-5.27.14+mc1.21.1.jar
+- Sable: sable-neoforge-1.21.1-2.0.1.jar -> sable-neoforge-1.21.1-2.0.3.jar
+- Create: Hypertubes: create_hypertube-0.4.0-SABLE-COMPAT-NEOFORGE.jar -> create_hypertube-0.5.0-ALPHA-NEOFORGE.jar
+```
+
+---
 ## [1.2.16] - 2026-06-14
 
 

@@ -7,8 +7,8 @@
     "uncommon_outbreak_rarity": 30
   },
   "portal_spawning_config": {
-    "random_player_count": 2,
-    "outbreak_spawn_count": 3,
+    "random_player_count": 3,
+    "outbreak_spawn_count": 1,
     "min_spawn_radius": 32,
     "max_spawn_radius": 64,
     "portal_spawn_choice": "per_player",
@@ -33,7 +33,7 @@
     "outbreak_portal_spawn_sound": true
   },
   "messages": {
-    "send_portal_spawn_message": true,
+    "send_portal_spawn_message": false,
     "biome_specific_spawns": true,
     "biome_specific_spawns_debug": false
   }
